@@ -1,2 +1,2 @@
-print(12)
+print(122)
 print(2372)
