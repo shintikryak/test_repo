@@ -1,2 +1,2 @@
 # test_repo
-test2
+Repo for testing update notiication system
