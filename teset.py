@@ -4,7 +4,7 @@ print(232722)
 
 print(322222)
 
-print(3)
+print(23)
 
 a = 222222
 
