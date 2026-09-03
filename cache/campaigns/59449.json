@@ -1,0 +1,1914 @@
+{
+  "id": 59449,
+  "name": "$s$wDITCHFEST $f9068-69",
+  "media": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/301b16d6-7a8d-4035-8948-b90a1fb3c0d7/png/large.png?timestamp=1719012556.png",
+  "creationtime": 1706302083,
+  "publishtime": 1706302083,
+  "clubid": 52818,
+  "clubname": "$o$f90$sDitchfest",
+  "leaderboarduid": "NLS-WFmauC0CGReeQREcWHhf6rVVaRVTp6xEYrW",
+  "playlist": [
+    {
+      "author": "5ed534fc-04ea-47ac-a868-0f342c87dfcb",
+      "name": "df 68 - lamron",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "",
+      "authorScore": 36000,
+      "goldScore": 40000,
+      "silverScore": 45000,
+      "bronzeScore": 60000,
+      "collectionName": "Stadium",
+      "filename": "df 68 - lamron.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "f8d81cc0-b57a-4c19-bee7-1f6c79466455",
+      "mapUid": "N4Mrsr0W82A3YuDFcH3Zbxbax09",
+      "submitter": "5ed534fc-04ea-47ac-a868-0f342c87dfcb",
+      "timestamp": "2024-01-26T18:28:02+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/f8d81cc0-b57a-4c19-bee7-1f6c79466455/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/f8d81cc0-b57a-4c19-bee7-1f6c79466455/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "S0miek",
+        "id": "5ed534fc-04ea-47ac-a868-0f342c87dfcb",
+        "zone": {
+          "id": "7715602a-8347-4020-8480-dac4fda02294",
+          "name": "Свердловская область",
+          "flag": "Sverdlovsk_Oblast",
+          "parent": {
+            "id": "30224637-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Уральский федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "Balleya"
+          }
+        }
+      },
+      "submitterplayer": {
+        "name": "S0miek",
+        "id": "5ed534fc-04ea-47ac-a868-0f342c87dfcb",
+        "zone": {
+          "id": "7715602a-8347-4020-8480-dac4fda02294",
+          "name": "Свердловская область",
+          "flag": "Sverdlovsk_Oblast",
+          "parent": {
+            "id": "30224637-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Уральский федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "Balleya"
+          }
+        }
+      },
+      "exchangeid": 190270,
+      "competitionsmetadata": []
+    },
+    {
+      "author": "b649b364-2231-4daf-bd31-fc69515bf254",
+      "name": "bangladesh #18",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "",
+      "authorScore": 27162,
+      "goldScore": 29000,
+      "silverScore": 33000,
+      "bronzeScore": 41000,
+      "collectionName": "Stadium",
+      "filename": "bangladesh #18.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "faab8d95-38bb-4584-ad8d-9bc4da9ccc11",
+      "mapUid": "uop98KPI4FKBY1TXluSBck8yE6i",
+      "submitter": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+      "timestamp": "2024-01-26T20:47:49+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/faab8d95-38bb-4584-ad8d-9bc4da9ccc11/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/faab8d95-38bb-4584-ad8d-9bc4da9ccc11/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "street_ko",
+        "tag": "$S$666M$555J$444K",
+        "id": "b649b364-2231-4daf-bd31-fc69515bf254",
+        "zone": {
+          "id": "30224dbd-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Beograd",
+          "flag": "Beograd",
+          "parent": {
+            "id": "30224d28-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Serbia",
+            "flag": "SRB",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "submitterplayer": {
+        "name": "DamnedLight",
+        "tag": "$S$F90$ODITCH",
+        "id": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+        "zone": {
+          "id": "60ff7524-052e-43ef-a83e-d2ffa309f0fc",
+          "name": "Мурманская область",
+          "flag": "Murmansk_Oblast",
+          "parent": {
+            "id": "3022445b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Северо-Западный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "damnedlight",
+            "youtube": "UCupm_T2k6t4nkJGO1EiH83A",
+            "twitter": "DamnedLight"
+          }
+        }
+      },
+      "exchangeid": 190271,
+      "competitionsmetadata": []
+    },
+    {
+      "author": "64d91944-7789-4d0c-80a2-7df1906127d6",
+      "name": "df68 seetitty be like",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "",
+      "authorScore": 40813,
+      "goldScore": 44000,
+      "silverScore": 49000,
+      "bronzeScore": 62000,
+      "collectionName": "Stadium",
+      "filename": "df68 seetitty be like.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "6fb250b9-13ec-430a-bf50-771fec8d046b",
+      "mapUid": "pzAu7ZOwuZIUMumL4HQQKPIe4N1",
+      "submitter": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+      "timestamp": "2024-01-26T20:47:49+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/6fb250b9-13ec-430a-bf50-771fec8d046b/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/6fb250b9-13ec-430a-bf50-771fec8d046b/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "avi___",
+        "tag": "$O$N$7EF$FCE$FFF$FCE$7EF",
+        "id": "64d91944-7789-4d0c-80a2-7df1906127d6",
+        "zone": {
+          "id": "301e2c9d-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Argentina",
+          "flag": "ARG",
+          "parent": {
+            "id": "301e243e-7e13-11e8-8060-e284abfd2bc4",
+            "name": "South America",
+            "flag": "samerica",
+            "parent": {
+              "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+              "name": "World",
+              "flag": "WOR"
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "submitterplayer": {
+        "name": "DamnedLight",
+        "tag": "$S$F90$ODITCH",
+        "id": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+        "zone": {
+          "id": "60ff7524-052e-43ef-a83e-d2ffa309f0fc",
+          "name": "Мурманская область",
+          "flag": "Murmansk_Oblast",
+          "parent": {
+            "id": "3022445b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Северо-Западный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "damnedlight",
+            "youtube": "UCupm_T2k6t4nkJGO1EiH83A",
+            "twitter": "DamnedLight"
+          }
+        }
+      },
+      "exchangeid": 190275,
+      "competitionsmetadata": []
+    },
+    {
+      "author": "a470cb5d-3747-4952-a4f9-709160a22182",
+      "name": "$600BANGER $600- df 68",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "",
+      "authorScore": 36230,
+      "goldScore": 39000,
+      "silverScore": 44000,
+      "bronzeScore": 55000,
+      "collectionName": "Stadium",
+      "filename": "BANGER - df 68.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "2eb69c9a-68e1-4e4b-8888-614eeb93312a",
+      "mapUid": "wDTFvLurkHsgZBzlDx1b3ymq5W9",
+      "submitter": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+      "timestamp": "2024-01-26T20:47:51+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/2eb69c9a-68e1-4e4b-8888-614eeb93312a/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/2eb69c9a-68e1-4e4b-8888-614eeb93312a/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "Kopatych.xDD",
+        "id": "a470cb5d-3747-4952-a4f9-709160a22182",
+        "zone": {
+          "id": "301e5b40-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Belarus",
+          "flag": "BLR",
+          "parent": {
+            "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Europe",
+            "flag": "europe",
+            "parent": {
+              "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+              "name": "World",
+              "flag": "WOR"
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "submitterplayer": {
+        "name": "DamnedLight",
+        "tag": "$S$F90$ODITCH",
+        "id": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+        "zone": {
+          "id": "60ff7524-052e-43ef-a83e-d2ffa309f0fc",
+          "name": "Мурманская область",
+          "flag": "Murmansk_Oblast",
+          "parent": {
+            "id": "3022445b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Северо-Западный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "damnedlight",
+            "youtube": "UCupm_T2k6t4nkJGO1EiH83A",
+            "twitter": "DamnedLight"
+          }
+        }
+      },
+      "exchangeid": 151965,
+      "competitionsmetadata": []
+    },
+    {
+      "author": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+      "name": "Ditchfest68 - $f90CTT$ff0xdd $0f02",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "",
+      "authorScore": 45449,
+      "goldScore": 49000,
+      "silverScore": 55000,
+      "bronzeScore": 69000,
+      "collectionName": "Stadium",
+      "filename": "Ditchfest68 - CTTxdd 2.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "99ec62d2-666a-4aa2-bed0-e24cbc96979d",
+      "mapUid": "gMxB_i3aFPsVJp0Fv9lN_WYDAgh",
+      "submitter": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+      "timestamp": "2025-05-06T21:20:44+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/99ec62d2-666a-4aa2-bed0-e24cbc96979d/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/99ec62d2-666a-4aa2-bed0-e24cbc96979d/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "DamnedLight",
+        "tag": "$S$F90$ODITCH",
+        "id": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+        "zone": {
+          "id": "60ff7524-052e-43ef-a83e-d2ffa309f0fc",
+          "name": "Мурманская область",
+          "flag": "Murmansk_Oblast",
+          "parent": {
+            "id": "3022445b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Северо-Западный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "damnedlight",
+            "youtube": "UCupm_T2k6t4nkJGO1EiH83A",
+            "twitter": "DamnedLight"
+          }
+        }
+      },
+      "submitterplayer": {
+        "name": "DamnedLight",
+        "tag": "$S$F90$ODITCH",
+        "id": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+        "zone": {
+          "id": "60ff7524-052e-43ef-a83e-d2ffa309f0fc",
+          "name": "Мурманская область",
+          "flag": "Murmansk_Oblast",
+          "parent": {
+            "id": "3022445b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Северо-Западный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "damnedlight",
+            "youtube": "UCupm_T2k6t4nkJGO1EiH83A",
+            "twitter": "DamnedLight"
+          }
+        }
+      },
+      "exchangeid": 151949,
+      "competitionsmetadata": []
+    },
+    {
+      "author": "5e585b27-dd3c-4411-9b79-83f5055e7da8",
+      "name": "DF68 - $f00C$fffum$f00t$fffas$f00t$fffic",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "",
+      "authorScore": 48386,
+      "goldScore": 52000,
+      "silverScore": 59000,
+      "bronzeScore": 73000,
+      "collectionName": "Stadium",
+      "filename": "DF68 - Cumtastic.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "309c251f-dca3-475a-803f-96702b4f7e8d",
+      "mapUid": "SPlesfpeed9H0FliFYHgzmAw0ic",
+      "submitter": "5e585b27-dd3c-4411-9b79-83f5055e7da8",
+      "timestamp": "2024-02-05T12:33:04+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/309c251f-dca3-475a-803f-96702b4f7e8d/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/309c251f-dca3-475a-803f-96702b4f7e8d/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "puupych",
+        "tag": "$S$408TER$408P$438I",
+        "id": "5e585b27-dd3c-4411-9b79-83f5055e7da8",
+        "zone": {
+          "id": "dc5e302a-8b7c-4cb6-aaed-b753e578bbbd",
+          "name": "Курская область",
+          "flag": "Kursk_Oblast",
+          "parent": {
+            "id": "30224326-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Центральный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "puupy_xd"
+          }
+        }
+      },
+      "submitterplayer": {
+        "name": "puupych",
+        "tag": "$S$408TER$408P$438I",
+        "id": "5e585b27-dd3c-4411-9b79-83f5055e7da8",
+        "zone": {
+          "id": "dc5e302a-8b7c-4cb6-aaed-b753e578bbbd",
+          "name": "Курская область",
+          "flag": "Kursk_Oblast",
+          "parent": {
+            "id": "30224326-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Центральный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "puupy_xd"
+          }
+        }
+      },
+      "exchangeid": 155562,
+      "competitionsmetadata": []
+    },
+    {
+      "author": "b8467778-17de-48c6-8356-af1223b39a5c",
+      "name": "DF68 Uvynskyi CTT",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "",
+      "authorScore": 39940,
+      "goldScore": 43000,
+      "silverScore": 48000,
+      "bronzeScore": 60000,
+      "collectionName": "Stadium",
+      "filename": "DF68 Uvynskyi CTT.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "ba64267c-bd1b-422a-91e3-5809c242b8d7",
+      "mapUid": "YB4Pon60oagkqsqY6isyzwCGLG6",
+      "submitter": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+      "timestamp": "2024-01-26T20:47:53+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/ba64267c-bd1b-422a-91e3-5809c242b8d7/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/ba64267c-bd1b-422a-91e3-5809c242b8d7/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "mt_sraL",
+        "tag": "$C00O$E88K$FFFU$FFFLT",
+        "id": "b8467778-17de-48c6-8356-af1223b39a5c",
+        "zone": {
+          "id": "8cf7f77c-6025-4e55-af94-4a3b772d11d2",
+          "name": "Москва",
+          "flag": "Moscow",
+          "parent": {
+            "id": "30224326-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Центральный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "submitterplayer": {
+        "name": "DamnedLight",
+        "tag": "$S$F90$ODITCH",
+        "id": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+        "zone": {
+          "id": "60ff7524-052e-43ef-a83e-d2ffa309f0fc",
+          "name": "Мурманская область",
+          "flag": "Murmansk_Oblast",
+          "parent": {
+            "id": "3022445b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Северо-Западный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "damnedlight",
+            "youtube": "UCupm_T2k6t4nkJGO1EiH83A",
+            "twitter": "DamnedLight"
+          }
+        }
+      },
+      "exchangeid": 151908,
+      "competitionsmetadata": []
+    },
+    {
+      "author": "3a07ad9f-98b1-4299-808e-768a00ff7dc9",
+      "name": "$SDF68 - $FFBRise 2!",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "",
+      "authorScore": 42753,
+      "goldScore": 46000,
+      "silverScore": 52000,
+      "bronzeScore": 65000,
+      "collectionName": "Stadium",
+      "filename": "DF68 - Rise 2!.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "c5d84c4b-37ea-440a-86c5-22886f01da45",
+      "mapUid": "XEJaZGQCnrZctix9BozSS_Qiyed",
+      "submitter": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+      "timestamp": "2024-01-26T20:47:55+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/c5d84c4b-37ea-440a-86c5-22886f01da45/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/c5d84c4b-37ea-440a-86c5-22886f01da45/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "Norbinarius",
+        "tag": "$S$408TER$408P$438I",
+        "id": "3a07ad9f-98b1-4299-808e-768a00ff7dc9",
+        "zone": {
+          "id": "8cf7f77c-6025-4e55-af94-4a3b772d11d2",
+          "name": "Москва",
+          "flag": "Moscow",
+          "parent": {
+            "id": "30224326-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Центральный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "norbinarius",
+            "youtube": "@Norbinarius007"
+          }
+        }
+      },
+      "submitterplayer": {
+        "name": "DamnedLight",
+        "tag": "$S$F90$ODITCH",
+        "id": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+        "zone": {
+          "id": "60ff7524-052e-43ef-a83e-d2ffa309f0fc",
+          "name": "Мурманская область",
+          "flag": "Murmansk_Oblast",
+          "parent": {
+            "id": "3022445b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Северо-Западный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "damnedlight",
+            "youtube": "UCupm_T2k6t4nkJGO1EiH83A",
+            "twitter": "DamnedLight"
+          }
+        }
+      },
+      "exchangeid": 190272,
+      "competitionsmetadata": []
+    },
+    {
+      "author": "6c35eba1-10cb-40ad-a8f3-9f35be092b10",
+      "name": "DF68 - Three Main Symbols",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "",
+      "authorScore": 59938,
+      "goldScore": 64000,
+      "silverScore": 72000,
+      "bronzeScore": 90000,
+      "collectionName": "Stadium",
+      "filename": "DF68 - Three Main Symbols.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "1608e8e5-1c7e-45fc-8baf-c787eff9628f",
+      "mapUid": "Eq5WI9w8bCc5Gm7DcaTCu81amIk",
+      "submitter": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+      "timestamp": "2024-01-26T20:47:56+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/1608e8e5-1c7e-45fc-8baf-c787eff9628f/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/1608e8e5-1c7e-45fc-8baf-c787eff9628f/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "MOVIESTRAIFE",
+        "tag": "$F00666",
+        "id": "6c35eba1-10cb-40ad-a8f3-9f35be092b10",
+        "zone": {
+          "id": "30224326-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Центральный федеральный округ",
+          "flag": "RUS",
+          "parent": {
+            "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Russia",
+            "flag": "RUS",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "moviestraife_"
+          }
+        }
+      },
+      "submitterplayer": {
+        "name": "DamnedLight",
+        "tag": "$S$F90$ODITCH",
+        "id": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+        "zone": {
+          "id": "60ff7524-052e-43ef-a83e-d2ffa309f0fc",
+          "name": "Мурманская область",
+          "flag": "Murmansk_Oblast",
+          "parent": {
+            "id": "3022445b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Северо-Западный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "damnedlight",
+            "youtube": "UCupm_T2k6t4nkJGO1EiH83A",
+            "twitter": "DamnedLight"
+          }
+        }
+      },
+      "exchangeid": 190273,
+      "competitionsmetadata": []
+    },
+    {
+      "author": "e62622c9-7005-4b0e-a781-5e8a6c7c000f",
+      "name": "mix & salt",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "",
+      "authorScore": 39000,
+      "goldScore": 42000,
+      "silverScore": 47000,
+      "bronzeScore": 59000,
+      "collectionName": "Stadium",
+      "filename": "mix & salt.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "b1414f69-5684-4f5d-bff0-e23371752591",
+      "mapUid": "sNj08gTucp355letoipyMZNCuT3",
+      "submitter": "e62622c9-7005-4b0e-a781-5e8a6c7c000f",
+      "timestamp": "2024-02-08T22:52:29+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/b1414f69-5684-4f5d-bff0-e23371752591/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/b1414f69-5684-4f5d-bff0-e23371752591/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "onrd.",
+        "tag": "$0A4BW",
+        "id": "e62622c9-7005-4b0e-a781-5e8a6c7c000f",
+        "zone": {
+          "id": "d3f773be-dec8-45de-afb0-ff1943c39ef4",
+          "name": "Московская область",
+          "flag": "Moscow_oblast",
+          "parent": {
+            "id": "30224326-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Центральный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "submitterplayer": {
+        "name": "onrd.",
+        "tag": "$0A4BW",
+        "id": "e62622c9-7005-4b0e-a781-5e8a6c7c000f",
+        "zone": {
+          "id": "d3f773be-dec8-45de-afb0-ff1943c39ef4",
+          "name": "Московская область",
+          "flag": "Moscow_oblast",
+          "parent": {
+            "id": "30224326-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Центральный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "exchangeid": 151963,
+      "competitionsmetadata": []
+    },
+    {
+      "author": "9c36b127-d1ce-4cf7-85fa-e9d11bcbb5fd",
+      "name": "$f70 A Space Odyssey",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "",
+      "authorScore": 35006,
+      "goldScore": 38000,
+      "silverScore": 43000,
+      "bronzeScore": 53000,
+      "collectionName": "Stadium",
+      "filename": " A Space Odyssey.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "07b539ca-0fe9-4708-b263-b2b1f0c1c040",
+      "mapUid": "p6cWqJ40VF_1szoVzXQsdiv0mLe",
+      "submitter": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+      "timestamp": "2024-01-26T20:48:03+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/07b539ca-0fe9-4708-b263-b2b1f0c1c040/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/07b539ca-0fe9-4708-b263-b2b1f0c1c040/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "TechnoWayMusic",
+        "tag": "$9CFART$69FA",
+        "id": "9c36b127-d1ce-4cf7-85fa-e9d11bcbb5fd",
+        "zone": {
+          "id": "5175e068-77e6-4fc9-9a9c-ad06a10f319f",
+          "name": "Самарская область",
+          "flag": "Samara_Oblast",
+          "parent": {
+            "id": "302246d0-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Приволжский федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "TechnoWayMusic",
+            "youtube": "@TechnoWayMusic",
+            "twitter": "TechnoWayMusic"
+          }
+        }
+      },
+      "submitterplayer": {
+        "name": "DamnedLight",
+        "tag": "$S$F90$ODITCH",
+        "id": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+        "zone": {
+          "id": "60ff7524-052e-43ef-a83e-d2ffa309f0fc",
+          "name": "Мурманская область",
+          "flag": "Murmansk_Oblast",
+          "parent": {
+            "id": "3022445b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Северо-Западный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "damnedlight",
+            "youtube": "UCupm_T2k6t4nkJGO1EiH83A",
+            "twitter": "DamnedLight"
+          }
+        }
+      },
+      "exchangeid": 0,
+      "competitionsmetadata": []
+    },
+    {
+      "author": "f1cd601b-d355-4142-81e9-87875a5b0826",
+      "name": "DF - 68 Windows despair",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "",
+      "authorScore": 44972,
+      "goldScore": 48000,
+      "silverScore": 54000,
+      "bronzeScore": 68000,
+      "collectionName": "Stadium",
+      "filename": "DF - 68 Windows despair.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "83c3067e-2703-4534-bcd7-9353a0cdb039",
+      "mapUid": "TqX3tfMk5NTH29cdWa8nrKRvcVi",
+      "submitter": "f1cd601b-d355-4142-81e9-87875a5b0826",
+      "timestamp": "2024-01-26T19:02:26+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/83c3067e-2703-4534-bcd7-9353a0cdb039/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/83c3067e-2703-4534-bcd7-9353a0cdb039/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "WalteN.",
+        "tag": "$F9F$SH$FFF1.",
+        "id": "f1cd601b-d355-4142-81e9-87875a5b0826",
+        "zone": {
+          "id": "8cf7f77c-6025-4e55-af94-4a3b772d11d2",
+          "name": "Москва",
+          "flag": "Moscow",
+          "parent": {
+            "id": "30224326-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Центральный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "youtube": "UCxFcEk-1FjO77umOxukGSGw"
+          }
+        }
+      },
+      "submitterplayer": {
+        "name": "WalteN.",
+        "tag": "$F9F$SH$FFF1.",
+        "id": "f1cd601b-d355-4142-81e9-87875a5b0826",
+        "zone": {
+          "id": "8cf7f77c-6025-4e55-af94-4a3b772d11d2",
+          "name": "Москва",
+          "flag": "Moscow",
+          "parent": {
+            "id": "30224326-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Центральный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "youtube": "UCxFcEk-1FjO77umOxukGSGw"
+          }
+        }
+      },
+      "exchangeid": 190274,
+      "competitionsmetadata": []
+    },
+    {
+      "author": "2aae8132-2f40-40f3-9808-55bd9a3e56bf",
+      "name": "$96fMisty Darkness Slide",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "TrackMania\\TM_Race",
+      "authorScore": 18107,
+      "goldScore": 20000,
+      "silverScore": 22000,
+      "bronzeScore": 28000,
+      "collectionName": "Stadium",
+      "filename": "Misty Darkness Slide.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "077b8175-7fca-47f0-ba6f-e997407242f5",
+      "mapUid": "lyZSroJLIk7yvzheSIDp8LLzWx",
+      "submitter": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+      "timestamp": "2024-02-09T20:53:21+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/077b8175-7fca-47f0-ba6f-e997407242f5/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/077b8175-7fca-47f0-ba6f-e997407242f5/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "ya___",
+        "tag": "$96F___",
+        "id": "2aae8132-2f40-40f3-9808-55bd9a3e56bf",
+        "zone": {
+          "id": "30204490-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Erfurt",
+          "flag": "Erfurt",
+          "parent": {
+            "id": "30204368-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Thüringen",
+            "flag": "thuringen",
+            "parent": {
+              "id": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Germany",
+              "flag": "GER",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "ya________"
+          }
+        }
+      },
+      "submitterplayer": {
+        "name": "DamnedLight",
+        "tag": "$S$F90$ODITCH",
+        "id": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+        "zone": {
+          "id": "60ff7524-052e-43ef-a83e-d2ffa309f0fc",
+          "name": "Мурманская область",
+          "flag": "Murmansk_Oblast",
+          "parent": {
+            "id": "3022445b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Северо-Западный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "damnedlight",
+            "youtube": "UCupm_T2k6t4nkJGO1EiH83A",
+            "twitter": "DamnedLight"
+          }
+        }
+      },
+      "exchangeid": 0,
+      "competitionsmetadata": []
+    },
+    {
+      "author": "9c36b127-d1ce-4cf7-85fa-e9d11bcbb5fd",
+      "name": "69",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "",
+      "authorScore": 69696969,
+      "goldScore": 30930000,
+      "silverScore": 40687000,
+      "bronzeScore": 18647000,
+      "collectionName": "Stadium",
+      "filename": "69.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "73601f45-70c5-49cd-81db-8c12606f1078",
+      "mapUid": "6p9vPPoD2m1YZUcCpQy8QLmNtg9",
+      "submitter": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+      "timestamp": "2024-02-09T20:53:21+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/73601f45-70c5-49cd-81db-8c12606f1078/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/73601f45-70c5-49cd-81db-8c12606f1078/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "TechnoWayMusic",
+        "tag": "$9CFART$69FA",
+        "id": "9c36b127-d1ce-4cf7-85fa-e9d11bcbb5fd",
+        "zone": {
+          "id": "5175e068-77e6-4fc9-9a9c-ad06a10f319f",
+          "name": "Самарская область",
+          "flag": "Samara_Oblast",
+          "parent": {
+            "id": "302246d0-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Приволжский федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "TechnoWayMusic",
+            "youtube": "@TechnoWayMusic",
+            "twitter": "TechnoWayMusic"
+          }
+        }
+      },
+      "submitterplayer": {
+        "name": "DamnedLight",
+        "tag": "$S$F90$ODITCH",
+        "id": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+        "zone": {
+          "id": "60ff7524-052e-43ef-a83e-d2ffa309f0fc",
+          "name": "Мурманская область",
+          "flag": "Murmansk_Oblast",
+          "parent": {
+            "id": "3022445b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Северо-Западный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "damnedlight",
+            "youtube": "UCupm_T2k6t4nkJGO1EiH83A",
+            "twitter": "DamnedLight"
+          }
+        }
+      },
+      "exchangeid": 0,
+      "competitionsmetadata": []
+    },
+    {
+      "author": "b8467778-17de-48c6-8356-af1223b39a5c",
+      "name": "DF69 Chestnyi YEK",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "",
+      "authorScore": 44000,
+      "goldScore": 47000,
+      "silverScore": 53000,
+      "bronzeScore": 67000,
+      "collectionName": "Stadium",
+      "filename": "DF69 Chestnyi YEK.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "0783631b-b55a-4c4c-8d50-b9ac2ab63085",
+      "mapUid": "GB3JwxhFjIKeIpx70axJC8tfjB5",
+      "submitter": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+      "timestamp": "2024-02-09T20:53:23+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/0783631b-b55a-4c4c-8d50-b9ac2ab63085/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/0783631b-b55a-4c4c-8d50-b9ac2ab63085/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "mt_sraL",
+        "tag": "$C00O$E88K$FFFU$FFFLT",
+        "id": "b8467778-17de-48c6-8356-af1223b39a5c",
+        "zone": {
+          "id": "8cf7f77c-6025-4e55-af94-4a3b772d11d2",
+          "name": "Москва",
+          "flag": "Moscow",
+          "parent": {
+            "id": "30224326-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Центральный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "submitterplayer": {
+        "name": "DamnedLight",
+        "tag": "$S$F90$ODITCH",
+        "id": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+        "zone": {
+          "id": "60ff7524-052e-43ef-a83e-d2ffa309f0fc",
+          "name": "Мурманская область",
+          "flag": "Murmansk_Oblast",
+          "parent": {
+            "id": "3022445b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Северо-Западный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "damnedlight",
+            "youtube": "UCupm_T2k6t4nkJGO1EiH83A",
+            "twitter": "DamnedLight"
+          }
+        }
+      },
+      "exchangeid": 0,
+      "competitionsmetadata": []
+    },
+    {
+      "author": "b649b364-2231-4daf-bd31-fc69515bf254",
+      "name": "bangladesh #19",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "",
+      "authorScore": 60000,
+      "goldScore": 64000,
+      "silverScore": 73000,
+      "bronzeScore": 91000,
+      "collectionName": "Stadium",
+      "filename": "bangladesh #19.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "cc70c220-faf1-44a8-821a-2b1cb15d4b66",
+      "mapUid": "uxzhrBoXYYPsbZeorI3kOVY4kk7",
+      "submitter": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+      "timestamp": "2024-02-09T20:53:25+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/cc70c220-faf1-44a8-821a-2b1cb15d4b66/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/cc70c220-faf1-44a8-821a-2b1cb15d4b66/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "street_ko",
+        "tag": "$S$666M$555J$444K",
+        "id": "b649b364-2231-4daf-bd31-fc69515bf254",
+        "zone": {
+          "id": "30224dbd-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Beograd",
+          "flag": "Beograd",
+          "parent": {
+            "id": "30224d28-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Serbia",
+            "flag": "SRB",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "submitterplayer": {
+        "name": "DamnedLight",
+        "tag": "$S$F90$ODITCH",
+        "id": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+        "zone": {
+          "id": "60ff7524-052e-43ef-a83e-d2ffa309f0fc",
+          "name": "Мурманская область",
+          "flag": "Murmansk_Oblast",
+          "parent": {
+            "id": "3022445b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Северо-Западный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "damnedlight",
+            "youtube": "UCupm_T2k6t4nkJGO1EiH83A",
+            "twitter": "DamnedLight"
+          }
+        }
+      },
+      "exchangeid": 154032,
+      "competitionsmetadata": []
+    },
+    {
+      "author": "64d91944-7789-4d0c-80a2-7df1906127d6",
+      "name": "DF69 Mirror Mirror On The Wall",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "",
+      "authorScore": 60000,
+      "goldScore": 64000,
+      "silverScore": 73000,
+      "bronzeScore": 91000,
+      "collectionName": "Stadium",
+      "filename": "DF69 Mirror Mirror On The Wall.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "e98e14c1-7ea6-4f53-af1a-9fda20a5e360",
+      "mapUid": "4CovMmT5W3PFteqW617_uuoqIV4",
+      "submitter": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+      "timestamp": "2024-02-09T20:53:26+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/e98e14c1-7ea6-4f53-af1a-9fda20a5e360/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/e98e14c1-7ea6-4f53-af1a-9fda20a5e360/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "avi___",
+        "tag": "$O$N$7EF$FCE$FFF$FCE$7EF",
+        "id": "64d91944-7789-4d0c-80a2-7df1906127d6",
+        "zone": {
+          "id": "301e2c9d-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Argentina",
+          "flag": "ARG",
+          "parent": {
+            "id": "301e243e-7e13-11e8-8060-e284abfd2bc4",
+            "name": "South America",
+            "flag": "samerica",
+            "parent": {
+              "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+              "name": "World",
+              "flag": "WOR"
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "submitterplayer": {
+        "name": "DamnedLight",
+        "tag": "$S$F90$ODITCH",
+        "id": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+        "zone": {
+          "id": "60ff7524-052e-43ef-a83e-d2ffa309f0fc",
+          "name": "Мурманская область",
+          "flag": "Murmansk_Oblast",
+          "parent": {
+            "id": "3022445b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Северо-Западный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "damnedlight",
+            "youtube": "UCupm_T2k6t4nkJGO1EiH83A",
+            "twitter": "DamnedLight"
+          }
+        }
+      },
+      "exchangeid": 0,
+      "competitionsmetadata": []
+    },
+    {
+      "author": "a470cb5d-3747-4952-a4f9-709160a22182",
+      "name": "df69 - $w$CCFkero$CCFsene",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "",
+      "authorScore": 38570,
+      "goldScore": 41000,
+      "silverScore": 47000,
+      "bronzeScore": 58000,
+      "collectionName": "Stadium",
+      "filename": "df69 - kerosene.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "86271fca-b8f5-41dd-9625-e60cc5171012",
+      "mapUid": "SWYvLSRpbNRS8Xu1UzLCrWr3Ep9",
+      "submitter": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+      "timestamp": "2024-02-09T20:53:27+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/86271fca-b8f5-41dd-9625-e60cc5171012/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/86271fca-b8f5-41dd-9625-e60cc5171012/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "Kopatych.xDD",
+        "id": "a470cb5d-3747-4952-a4f9-709160a22182",
+        "zone": {
+          "id": "301e5b40-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Belarus",
+          "flag": "BLR",
+          "parent": {
+            "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Europe",
+            "flag": "europe",
+            "parent": {
+              "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+              "name": "World",
+              "flag": "WOR"
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "submitterplayer": {
+        "name": "DamnedLight",
+        "tag": "$S$F90$ODITCH",
+        "id": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+        "zone": {
+          "id": "60ff7524-052e-43ef-a83e-d2ffa309f0fc",
+          "name": "Мурманская область",
+          "flag": "Murmansk_Oblast",
+          "parent": {
+            "id": "3022445b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Северо-Западный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "damnedlight",
+            "youtube": "UCupm_T2k6t4nkJGO1EiH83A",
+            "twitter": "DamnedLight"
+          }
+        }
+      },
+      "exchangeid": 179299,
+      "competitionsmetadata": []
+    },
+    {
+      "author": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+      "name": "Ditchfest69 - The Fog Has Come",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "",
+      "authorScore": 60000,
+      "goldScore": 120000,
+      "silverScore": 180000,
+      "bronzeScore": 300000,
+      "collectionName": "Stadium",
+      "filename": "Ditchfest69 - The Fog Has Come.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "acdcdf4f-3256-46ae-b65b-adf48dccc9f0",
+      "mapUid": "rSpFL9c7gE4vFrnKMQNSgxErUQl",
+      "submitter": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+      "timestamp": "2025-05-06T21:20:44+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/acdcdf4f-3256-46ae-b65b-adf48dccc9f0/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/acdcdf4f-3256-46ae-b65b-adf48dccc9f0/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "DamnedLight",
+        "tag": "$S$F90$ODITCH",
+        "id": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+        "zone": {
+          "id": "60ff7524-052e-43ef-a83e-d2ffa309f0fc",
+          "name": "Мурманская область",
+          "flag": "Murmansk_Oblast",
+          "parent": {
+            "id": "3022445b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Северо-Западный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "damnedlight",
+            "youtube": "UCupm_T2k6t4nkJGO1EiH83A",
+            "twitter": "DamnedLight"
+          }
+        }
+      },
+      "submitterplayer": {
+        "name": "DamnedLight",
+        "tag": "$S$F90$ODITCH",
+        "id": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+        "zone": {
+          "id": "60ff7524-052e-43ef-a83e-d2ffa309f0fc",
+          "name": "Мурманская область",
+          "flag": "Murmansk_Oblast",
+          "parent": {
+            "id": "3022445b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Северо-Западный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "damnedlight",
+            "youtube": "UCupm_T2k6t4nkJGO1EiH83A",
+            "twitter": "DamnedLight"
+          }
+        }
+      },
+      "exchangeid": 154036,
+      "competitionsmetadata": []
+    },
+    {
+      "author": "16efc93d-a36d-453a-b69a-ba9feee007b2",
+      "name": "trashdarkmaplul2",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "",
+      "authorScore": 40000,
+      "goldScore": 43000,
+      "silverScore": 49000,
+      "bronzeScore": 61000,
+      "collectionName": "Stadium",
+      "filename": "trashdarkmaplul2.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "48ccb6ff-afdf-4a9b-a345-9d25809cfed2",
+      "mapUid": "aeo5tocKWvTFrsuA6RfGsHyaP00",
+      "submitter": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+      "timestamp": "2024-02-09T20:53:28+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/48ccb6ff-afdf-4a9b-a345-9d25809cfed2/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/48ccb6ff-afdf-4a9b-a345-9d25809cfed2/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "jokey___",
+        "tag": "$96F___",
+        "id": "16efc93d-a36d-453a-b69a-ba9feee007b2",
+        "zone": {
+          "id": "302019b3-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Kaiserslautern",
+          "flag": "Kaiserslautern",
+          "parent": {
+            "id": "30201925-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Rheinland-Pfalz",
+            "flag": "rheinland-pfalz",
+            "parent": {
+              "id": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Germany",
+              "flag": "GER",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "submitterplayer": {
+        "name": "DamnedLight",
+        "tag": "$S$F90$ODITCH",
+        "id": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+        "zone": {
+          "id": "60ff7524-052e-43ef-a83e-d2ffa309f0fc",
+          "name": "Мурманская область",
+          "flag": "Murmansk_Oblast",
+          "parent": {
+            "id": "3022445b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Северо-Западный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "damnedlight",
+            "youtube": "UCupm_T2k6t4nkJGO1EiH83A",
+            "twitter": "DamnedLight"
+          }
+        }
+      },
+      "exchangeid": 0,
+      "competitionsmetadata": []
+    },
+    {
+      "author": "5e585b27-dd3c-4411-9b79-83f5055e7da8",
+      "name": "DF69 - Find the $f00diff$ffference",
+      "mapType": "TrackMania\\TM_Race",
+      "mapStyle": "",
+      "authorScore": 21419,
+      "goldScore": 23000,
+      "silverScore": 26000,
+      "bronzeScore": 33000,
+      "collectionName": "Stadium",
+      "filename": "DF69 - Find the difference.Map.Gbx",
+      "isPlayable": true,
+      "mapId": "706693bb-8b64-4359-a6a5-859e93d32377",
+      "mapUid": "1fs69ZkFOZegehXFLICBRiKjZpd",
+      "submitter": "5e585b27-dd3c-4411-9b79-83f5055e7da8",
+      "timestamp": "2024-02-09T19:04:47+00:00",
+      "fileUrl": "https://core.trackmania.nadeo.live/maps/706693bb-8b64-4359-a6a5-859e93d32377/file",
+      "thumbnailUrl": "https://core.trackmania.nadeo.live/maps/706693bb-8b64-4359-a6a5-859e93d32377/thumbnail.jpg",
+      "hasClones": false,
+      "authorplayer": {
+        "name": "puupych",
+        "tag": "$S$408TER$408P$438I",
+        "id": "5e585b27-dd3c-4411-9b79-83f5055e7da8",
+        "zone": {
+          "id": "dc5e302a-8b7c-4cb6-aaed-b753e578bbbd",
+          "name": "Курская область",
+          "flag": "Kursk_Oblast",
+          "parent": {
+            "id": "30224326-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Центральный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "puupy_xd"
+          }
+        }
+      },
+      "submitterplayer": {
+        "name": "puupych",
+        "tag": "$S$408TER$408P$438I",
+        "id": "5e585b27-dd3c-4411-9b79-83f5055e7da8",
+        "zone": {
+          "id": "dc5e302a-8b7c-4cb6-aaed-b753e578bbbd",
+          "name": "Курская область",
+          "flag": "Kursk_Oblast",
+          "parent": {
+            "id": "30224326-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Центральный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "puupy_xd"
+          }
+        }
+      },
+      "exchangeid": 156832,
+      "competitionsmetadata": []
+    }
+  ],
+  "mediae": {
+    "buttonbackground": "",
+    "buttonforeground": "",
+    "decal": "",
+    "popupbackground": "",
+    "popup": "",
+    "livebuttonbackground": "",
+    "livebuttonforeground": ""
+  },
+  "tracked": false
+}

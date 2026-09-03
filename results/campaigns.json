@@ -1,0 +1,522 @@
+[
+  {
+    "id": 96177,
+    "name": "DF 100'14+100'16",
+    "mapcount": 25
+  },
+  {
+    "id": 96893,
+    "name": "DF 100'17-100'18",
+    "mapcount": 24
+  },
+  {
+    "id": 97580,
+    "name": "DF 100'19-100'20",
+    "mapcount": 22
+  },
+  {
+    "id": 98758,
+    "name": "DF 100'23-100'24",
+    "mapcount": 22
+  },
+  {
+    "id": 93637,
+    "name": "DF 100'4-100'5",
+    "mapcount": 25
+  },
+  {
+    "id": 29715,
+    "name": "DITCHFEST 0",
+    "mapcount": 5
+  },
+  {
+    "id": 29716,
+    "name": "DITCHFEST 1-3",
+    "mapcount": 22
+  },
+  {
+    "id": 30211,
+    "name": "DITCHFEST 10-11",
+    "mapcount": 20
+  },
+  {
+    "id": 92705,
+    "name": "DITCHFEST 100'1",
+    "mapcount": 14
+  },
+  {
+    "id": 95235,
+    "name": "DITCHFEST 100'10",
+    "mapcount": 15
+  },
+  {
+    "id": 95358,
+    "name": "DITCHFEST 100'11",
+    "mapcount": 17
+  },
+  {
+    "id": 96072,
+    "name": "DITCHFEST 100'13",
+    "mapcount": 16
+  },
+  {
+    "id": 92839,
+    "name": "DITCHFEST 100'2",
+    "mapcount": 15
+  },
+  {
+    "id": 98214,
+    "name": "DITCHFEST 100'21",
+    "mapcount": 18
+  },
+  {
+    "id": 98345,
+    "name": "DITCHFEST 100'22",
+    "mapcount": 14
+  },
+  {
+    "id": 98976,
+    "name": "DITCHFEST 100'25-101",
+    "mapcount": 23
+  },
+  {
+    "id": 92944,
+    "name": "DITCHFEST 100'3",
+    "mapcount": 16
+  },
+  {
+    "id": 93923,
+    "name": "DITCHFEST 100'6",
+    "mapcount": 19
+  },
+  {
+    "id": 94439,
+    "name": "DITCHFEST 100'7",
+    "mapcount": 10
+  },
+  {
+    "id": 94547,
+    "name": "DITCHFEST 100'8",
+    "mapcount": 17
+  },
+  {
+    "id": 94676,
+    "name": "DITCHFEST 100'9",
+    "mapcount": 13
+  },
+  {
+    "id": 105297,
+    "name": "DITCHFEST 102",
+    "mapcount": 15
+  },
+  {
+    "id": 106541,
+    "name": "DITCHFEST 103",
+    "mapcount": 13
+  },
+  {
+    "id": 107774,
+    "name": "DITCHFEST 104-105",
+    "mapcount": 24
+  },
+  {
+    "id": 110242,
+    "name": "DITCHFEST 106",
+    "mapcount": 16
+  },
+  {
+    "id": 111515,
+    "name": "DITCHFEST 107",
+    "mapcount": 14
+  },
+  {
+    "id": 113053,
+    "name": "DITCHFEST 108",
+    "mapcount": 18
+  },
+  {
+    "id": 114547,
+    "name": "DITCHFEST 109",
+    "mapcount": 11
+  },
+  {
+    "id": 116136,
+    "name": "DITCHFEST 110",
+    "mapcount": 17
+  },
+  {
+    "id": 117398,
+    "name": "DITCHFEST 111-112.1",
+    "mapcount": 25
+  },
+  {
+    "id": 118746,
+    "name": "DITCHFEST 112.2",
+    "mapcount": 17
+  },
+  {
+    "id": 119965,
+    "name": "DITCHFEST 113",
+    "mapcount": 18
+  },
+  {
+    "id": 121537,
+    "name": "DITCHFEST 114",
+    "mapcount": 20
+  },
+  {
+    "id": 122993,
+    "name": "DITCHFEST 115",
+    "mapcount": 21
+  },
+  {
+    "id": 125447,
+    "name": "DITCHFEST 116",
+    "mapcount": 10
+  },
+  {
+    "id": 127077,
+    "name": "DITCHFEST 117",
+    "mapcount": 17
+  },
+  {
+    "id": 128753,
+    "name": "DITCHFEST 118",
+    "mapcount": 18
+  },
+  {
+    "id": 130288,
+    "name": "DITCHFEST 119-120",
+    "mapcount": 25
+  },
+  {
+    "id": 30702,
+    "name": "DITCHFEST 12-13",
+    "mapcount": 18
+  },
+  {
+    "id": 134339,
+    "name": "DITCHFEST 121",
+    "mapcount": 19
+  },
+  {
+    "id": 136035,
+    "name": "DITCHFEST 122",
+    "mapcount": 18
+  },
+  {
+    "id": 138067,
+    "name": "DITCHFEST 123-125.1",
+    "mapcount": 25
+  },
+  {
+    "id": 142765,
+    "name": "DITCHFEST 125.2",
+    "mapcount": 25
+  },
+  {
+    "id": 144769,
+    "name": "DITCHFEST 126",
+    "mapcount": 16
+  },
+  {
+    "id": 147226,
+    "name": "DITCHFEST 127",
+    "mapcount": 24
+  },
+  {
+    "id": 150395,
+    "name": "DITCHFEST 128",
+    "mapcount": 16
+  },
+  {
+    "id": 151811,
+    "name": "DITCHFEST 129-130",
+    "mapcount": 25
+  },
+  {
+    "id": 31630,
+    "name": "DITCHFEST 14-15",
+    "mapcount": 18
+  },
+  {
+    "id": 91833,
+    "name": "DITCHFEST 16-17",
+    "mapcount": 19
+  },
+  {
+    "id": 32153,
+    "name": "DITCHFEST 18-19",
+    "mapcount": 17
+  },
+  {
+    "id": 32368,
+    "name": "DITCHFEST 20-21",
+    "mapcount": 14
+  },
+  {
+    "id": 32875,
+    "name": "DITCHFEST 22-24",
+    "mapcount": 25
+  },
+  {
+    "id": 33255,
+    "name": "DITCHFEST 25-26",
+    "mapcount": 22
+  },
+  {
+    "id": 33859,
+    "name": "DITCHFEST 27-28",
+    "mapcount": 20
+  },
+  {
+    "id": 34565,
+    "name": "DITCHFEST 29-30",
+    "mapcount": 20
+  },
+  {
+    "id": 35324,
+    "name": "DITCHFEST 31-32",
+    "mapcount": 22
+  },
+  {
+    "id": 36019,
+    "name": "DITCHFEST 33",
+    "mapcount": 12
+  },
+  {
+    "id": 36322,
+    "name": "DITCHFEST 34",
+    "mapcount": 16
+  },
+  {
+    "id": 36683,
+    "name": "DITCHFEST 35-36",
+    "mapcount": 21
+  },
+  {
+    "id": 37313,
+    "name": "DITCHFEST 37-38",
+    "mapcount": 21
+  },
+  {
+    "id": 37971,
+    "name": "DITCHFEST 39-40",
+    "mapcount": 18
+  },
+  {
+    "id": 29717,
+    "name": "DITCHFEST 4-7",
+    "mapcount": 23
+  },
+  {
+    "id": 38646,
+    "name": "DITCHFEST 41",
+    "mapcount": 10
+  },
+  {
+    "id": 39034,
+    "name": "DITCHFEST 42",
+    "mapcount": 16
+  },
+  {
+    "id": 39656,
+    "name": "DITCHFEST 43",
+    "mapcount": 12
+  },
+  {
+    "id": 40064,
+    "name": "DITCHFEST 44",
+    "mapcount": 16
+  },
+  {
+    "id": 40452,
+    "name": "DITCHFEST 45",
+    "mapcount": 17
+  },
+  {
+    "id": 40788,
+    "name": "DITCHFEST 46-47",
+    "mapcount": 25
+  },
+  {
+    "id": 41567,
+    "name": "DITCHFEST 48-49",
+    "mapcount": 15
+  },
+  {
+    "id": 44923,
+    "name": "DITCHFEST 51-52",
+    "mapcount": 22
+  },
+  {
+    "id": 47480,
+    "name": "DITCHFEST 53-54",
+    "mapcount": 18
+  },
+  {
+    "id": 49613,
+    "name": "DITCHFEST 55-56",
+    "mapcount": 22
+  },
+  {
+    "id": 51300,
+    "name": "DITCHFEST 57",
+    "mapcount": 13
+  },
+  {
+    "id": 52067,
+    "name": "DITCHFEST 58-59",
+    "mapcount": 25
+  },
+  {
+    "id": 54065,
+    "name": "DITCHFEST 60-61",
+    "mapcount": 22
+  },
+  {
+    "id": 55580,
+    "name": "DITCHFEST 62-63",
+    "mapcount": 17
+  },
+  {
+    "id": 56472,
+    "name": "DITCHFEST 64-65",
+    "mapcount": 20
+  },
+  {
+    "id": 57682,
+    "name": "DITCHFEST 66-67",
+    "mapcount": 22
+  },
+  {
+    "id": 59449,
+    "name": "DITCHFEST 68-69",
+    "mapcount": 21
+  },
+  {
+    "id": 61153,
+    "name": "DITCHFEST 70-71",
+    "mapcount": 25
+  },
+  {
+    "id": 62591,
+    "name": "DITCHFEST 72",
+    "mapcount": 13
+  },
+  {
+    "id": 78716,
+    "name": "DITCHFEST 73",
+    "mapcount": 14
+  },
+  {
+    "id": 64827,
+    "name": "DITCHFEST 74-75",
+    "mapcount": 22
+  },
+  {
+    "id": 67291,
+    "name": "DITCHFEST 76-77",
+    "mapcount": 20
+  },
+  {
+    "id": 68863,
+    "name": "DITCHFEST 78",
+    "mapcount": 15
+  },
+  {
+    "id": 69505,
+    "name": "DITCHFEST 79-80",
+    "mapcount": 24
+  },
+  {
+    "id": 29932,
+    "name": "DITCHFEST 8-9",
+    "mapcount": 17
+  },
+  {
+    "id": 72022,
+    "name": "DITCHFEST 81-82",
+    "mapcount": 21
+  },
+  {
+    "id": 74171,
+    "name": "DITCHFEST 83",
+    "mapcount": 15
+  },
+  {
+    "id": 75221,
+    "name": "DITCHFEST 84-85.1",
+    "mapcount": 25
+  },
+  {
+    "id": 76199,
+    "name": "DITCHFEST 85.2",
+    "mapcount": 20
+  },
+  {
+    "id": 77253,
+    "name": "DITCHFEST 86",
+    "mapcount": 17
+  },
+  {
+    "id": 78297,
+    "name": "DITCHFEST 87",
+    "mapcount": 16
+  },
+  {
+    "id": 79563,
+    "name": "DITCHFEST 88",
+    "mapcount": 16
+  },
+  {
+    "id": 80721,
+    "name": "DITCHFEST 89",
+    "mapcount": 14
+  },
+  {
+    "id": 81642,
+    "name": "DITCHFEST 90",
+    "mapcount": 16
+  },
+  {
+    "id": 98670,
+    "name": "DITCHFEST 90/RPG",
+    "mapcount": 11
+  },
+  {
+    "id": 82553,
+    "name": "DITCHFEST 91",
+    "mapcount": 13
+  },
+  {
+    "id": 83440,
+    "name": "DITCHFEST 92",
+    "mapcount": 13
+  },
+  {
+    "id": 84262,
+    "name": "DITCHFEST 93",
+    "mapcount": 15
+  },
+  {
+    "id": 85511,
+    "name": "DITCHFEST 94-95",
+    "mapcount": 25
+  },
+  {
+    "id": 88087,
+    "name": "DITCHFEST 96-97",
+    "mapcount": 23
+  },
+  {
+    "id": 90407,
+    "name": "DITCHFEST 98",
+    "mapcount": 16
+  },
+  {
+    "id": 91508,
+    "name": "DITCHFEST 99",
+    "mapcount": 15
+  }
+]

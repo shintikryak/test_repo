@@ -1,0 +1,507 @@
+[
+  {
+    "id": 151811,
+    "name": "$w$sDITCHFEST $0aa129-130",
+    "mapcount": 25
+  },
+  {
+    "id": 107774,
+    "name": "$w$sDITCHFEST $f19104-105",
+    "mapcount": 24
+  },
+  {
+    "id": 150395,
+    "name": "$w$sDITCHFEST $0a0128",
+    "mapcount": 16
+  },
+  {
+    "id": 147226,
+    "name": "$w$sDITCHFEST $fff127",
+    "mapcount": 24
+  },
+  {
+    "id": 144769,
+    "name": "$w$sDITCHFEST $f00126",
+    "mapcount": 16
+  },
+  {
+    "id": 142765,
+    "name": "$w$sDITCHFEST $125125.2",
+    "mapcount": 25
+  },
+  {
+    "id": 138067,
+    "name": "$w$sDITCHFEST $123123-125.1",
+    "mapcount": 25
+  },
+  {
+    "id": 136035,
+    "name": "$w$sDITCHFEST $f00122",
+    "mapcount": 18
+  },
+  {
+    "id": 134339,
+    "name": "$w$sDITCHFEST $00f121",
+    "mapcount": 19
+  },
+  {
+    "id": 130288,
+    "name": "$w$sDITCHFEST $666119-120",
+    "mapcount": 25
+  },
+  {
+    "id": 128753,
+    "name": "$w$sDITCHFEST $f00118",
+    "mapcount": 18
+  },
+  {
+    "id": 127077,
+    "name": "$w$sDITCHFEST $000117",
+    "mapcount": 17
+  },
+  {
+    "id": 125447,
+    "name": "$w$sDITCHFEST $f40116",
+    "mapcount": 10
+  },
+  {
+    "id": 122993,
+    "name": "$w$sDITCHFEST $0f4115",
+    "mapcount": 21
+  },
+  {
+    "id": 121537,
+    "name": "$w$sDITCHFEST $f90114",
+    "mapcount": 20
+  },
+  {
+    "id": 119965,
+    "name": "$w$sDITCHFEST $0ff113",
+    "mapcount": 18
+  },
+  {
+    "id": 118746,
+    "name": "$w$sDITCHFEST $00f112.2",
+    "mapcount": 17
+  },
+  {
+    "id": 117398,
+    "name": "$w$sDITCHFEST $00f111-112.1",
+    "mapcount": 25
+  },
+  {
+    "id": 116136,
+    "name": "$w$sDITCHFEST $aa0110",
+    "mapcount": 17
+  },
+  {
+    "id": 114547,
+    "name": "$w$sDITCHFEST $b50109",
+    "mapcount": 11
+  },
+  {
+    "id": 113053,
+    "name": "$w$sDITCHFEST $f90108",
+    "mapcount": 18
+  },
+  {
+    "id": 111515,
+    "name": "$w$sDITCHFEST $0af107",
+    "mapcount": 14
+  },
+  {
+    "id": 110242,
+    "name": "$w$sDITCHFEST $0a0106",
+    "mapcount": 16
+  },
+  {
+    "id": 106541,
+    "name": "$w$sDITCHFEST $fff103",
+    "mapcount": 13
+  },
+  {
+    "id": 106540,
+    "name": "Ditchfest latest",
+    "mapcount": 9
+  },
+  {
+    "id": 105297,
+    "name": "$w$sDITCHFEST $ff0102",
+    "mapcount": 15
+  },
+  {
+    "id": 98976,
+    "name": "$w$sDITCHFEST $f90100'25-101",
+    "mapcount": 23
+  },
+  {
+    "id": 98670,
+    "name": "$w$sDITCHFEST $66690/RPG",
+    "mapcount": 11
+  },
+  {
+    "id": 98345,
+    "name": "$w$sDITCHFEST $80f100'22",
+    "mapcount": 14
+  },
+  {
+    "id": 98214,
+    "name": "$w$sDITCHFEST $aaa100'21",
+    "mapcount": 18
+  },
+  {
+    "id": 96072,
+    "name": "$w$sDITCHFEST $0f0100'13",
+    "mapcount": 16
+  },
+  {
+    "id": 95358,
+    "name": "$w$sDITCHFEST $ebf100'11",
+    "mapcount": 17
+  },
+  {
+    "id": 95235,
+    "name": "$w$sDITCHFEST $aaa100'10",
+    "mapcount": 15
+  },
+  {
+    "id": 94676,
+    "name": "$w$sDITCHFEST $f90100'9",
+    "mapcount": 13
+  },
+  {
+    "id": 94547,
+    "name": "$w$sDITCHFEST $0f0100'8",
+    "mapcount": 17
+  },
+  {
+    "id": 94439,
+    "name": "$w$sDITCHFEST $999100'7",
+    "mapcount": 10
+  },
+  {
+    "id": 93923,
+    "name": "$w$sDITCHFEST $f66100'6",
+    "mapcount": 19
+  },
+  {
+    "id": 92944,
+    "name": "$w$sDITCHFEST $ff0100'3",
+    "mapcount": 16
+  },
+  {
+    "id": 92839,
+    "name": "$w$sDITCHFEST $aaa100'2",
+    "mapcount": 15
+  },
+  {
+    "id": 92705,
+    "name": "$w$sDITCHFEST $fc9100'1",
+    "mapcount": 14
+  },
+  {
+    "id": 91833,
+    "name": "$wDITCHFEST $f1916-17",
+    "mapcount": 19
+  },
+  {
+    "id": 91508,
+    "name": "$w$sDITCHFEST $6a099",
+    "mapcount": 15
+  },
+  {
+    "id": 90407,
+    "name": "$w$sDITCHFEST $a5598",
+    "mapcount": 16
+  },
+  {
+    "id": 88087,
+    "name": "$w$sDITCHFEST $a4f96-97",
+    "mapcount": 23
+  },
+  {
+    "id": 85511,
+    "name": "$w$sDITCHFEST $ff394-95",
+    "mapcount": 25
+  },
+  {
+    "id": 84262,
+    "name": "$w$sDITCHFEST $f0093",
+    "mapcount": 15
+  },
+  {
+    "id": 83440,
+    "name": "$w$sDITCHFEST $fff92",
+    "mapcount": 13
+  },
+  {
+    "id": 82553,
+    "name": "$w$sDITCHFEST $ff091",
+    "mapcount": 13
+  },
+  {
+    "id": 81642,
+    "name": "$w$sDITCHFEST $88890",
+    "mapcount": 16
+  },
+  {
+    "id": 80721,
+    "name": "$w$sDITCHFEST $a1789",
+    "mapcount": 14
+  },
+  {
+    "id": 79563,
+    "name": "$w$sDITCHFEST $f1788",
+    "mapcount": 16
+  },
+  {
+    "id": 78716,
+    "name": "$w$sDITCHFEST $ff073",
+    "mapcount": 14
+  },
+  {
+    "id": 78297,
+    "name": "$w$sDITCHFEST $f0087",
+    "mapcount": 16
+  },
+  {
+    "id": 77253,
+    "name": "$w$sDITCHFEST $3f186",
+    "mapcount": 17
+  },
+  {
+    "id": 76199,
+    "name": "$w$sDITCHFEST $0cd85.2",
+    "mapcount": 20
+  },
+  {
+    "id": 75221,
+    "name": "$w$sDITCHFEST $0a284-85.1",
+    "mapcount": 25
+  },
+  {
+    "id": 74171,
+    "name": "$w$sDITCHFEST $00f83",
+    "mapcount": 15
+  },
+  {
+    "id": 72022,
+    "name": "$w$sDITCHFEST $a0a81-82",
+    "mapcount": 21
+  },
+  {
+    "id": 69505,
+    "name": "$w$sDITCHFEST $aa079-80",
+    "mapcount": 24
+  },
+  {
+    "id": 68863,
+    "name": "$w$sDITCHFEST $B6778",
+    "mapcount": 15
+  },
+  {
+    "id": 67291,
+    "name": "$w$sDITCHFEST $01f76-77",
+    "mapcount": 20
+  },
+  {
+    "id": 64827,
+    "name": "$w$sDITCHFEST $f9074-75",
+    "mapcount": 22
+  },
+  {
+    "id": 62591,
+    "name": "$s$wDITCHFEST $f8872",
+    "mapcount": 13
+  },
+  {
+    "id": 61153,
+    "name": "$s$wDITCHFEST $edd70-71",
+    "mapcount": 25
+  },
+  {
+    "id": 59449,
+    "name": "$s$wDITCHFEST $f9068-69",
+    "mapcount": 21
+  },
+  {
+    "id": 57682,
+    "name": "$s$wDITCHFEST $f0066-67",
+    "mapcount": 22
+  },
+  {
+    "id": 56472,
+    "name": "$s$wDITCHFEST $06464-65",
+    "mapcount": 20
+  },
+  {
+    "id": 55580,
+    "name": "$s$wDITCHFEST $f0062-63",
+    "mapcount": 17
+  },
+  {
+    "id": 54065,
+    "name": "$s$wDITCHFEST $ff060-61",
+    "mapcount": 22
+  },
+  {
+    "id": 52067,
+    "name": "$s$wDITCHFEST $f0058-59",
+    "mapcount": 25
+  },
+  {
+    "id": 51300,
+    "name": "$s$wDITCHFEST $00f57",
+    "mapcount": 13
+  },
+  {
+    "id": 49613,
+    "name": "$s$wDITCHFEST $f4e55-56",
+    "mapcount": 22
+  },
+  {
+    "id": 47480,
+    "name": "$s$wDITCHFEST $fee53-54",
+    "mapcount": 18
+  },
+  {
+    "id": 44923,
+    "name": "$s$wDITCHFEST $5fd51-52",
+    "mapcount": 22
+  },
+  {
+    "id": 41567,
+    "name": "$s$wDITCHFEST $fb848-49",
+    "mapcount": 15
+  },
+  {
+    "id": 40788,
+    "name": "$s$wDITCHFEST $f1746-47",
+    "mapcount": 25
+  },
+  {
+    "id": 40452,
+    "name": "$s$wDITCHFEST $fae45",
+    "mapcount": 17
+  },
+  {
+    "id": 40064,
+    "name": "$s$wDITCHFEST $af144",
+    "mapcount": 16
+  },
+  {
+    "id": 39656,
+    "name": "$w$sDITCHFEST $92143",
+    "mapcount": 12
+  },
+  {
+    "id": 39034,
+    "name": "$s$wDITCHFEST $abc42",
+    "mapcount": 16
+  },
+  {
+    "id": 38646,
+    "name": "$s$wDITCHFEST $41441",
+    "mapcount": 10
+  },
+  {
+    "id": 37971,
+    "name": "$s$wDITCHFEST $39339-40",
+    "mapcount": 18
+  },
+  {
+    "id": 37313,
+    "name": "$s$wDITCHFEST $73837-38",
+    "mapcount": 21
+  },
+  {
+    "id": 36683,
+    "name": "$s$wDITCHFEST $00035-36",
+    "mapcount": 21
+  },
+  {
+    "id": 36322,
+    "name": "$wDITCHFEST $fff34",
+    "mapcount": 16
+  },
+  {
+    "id": 36019,
+    "name": "$wDITCHFEST $d1033",
+    "mapcount": 12
+  },
+  {
+    "id": 35324,
+    "name": "$s$wDITCHFEST $27431-32",
+    "mapcount": 22
+  },
+  {
+    "id": 34565,
+    "name": "$s$wDITCHFEST $9ff29-30",
+    "mapcount": 20
+  },
+  {
+    "id": 33859,
+    "name": "$wDITCHFEST $95127-28",
+    "mapcount": 20
+  },
+  {
+    "id": 33255,
+    "name": "$wDITCHFEST $15925-26",
+    "mapcount": 22
+  },
+  {
+    "id": 32875,
+    "name": "$wDITCHFEST $aaa22-24",
+    "mapcount": 25
+  },
+  {
+    "id": 32368,
+    "name": "$wDITCHFEST $0ff20-21",
+    "mapcount": 14
+  },
+  {
+    "id": 32153,
+    "name": "$wDITCHFEST $ff018-19",
+    "mapcount": 17
+  },
+  {
+    "id": 31630,
+    "name": "$wDITCHFEST $00f14-15",
+    "mapcount": 18
+  },
+  {
+    "id": 30702,
+    "name": "DITCHFEST $w$f9012-13",
+    "mapcount": 18
+  },
+  {
+    "id": 30537,
+    "name": "DITCHFEST $ff0REMASTERED",
+    "mapcount": 19
+  },
+  {
+    "id": 30211,
+    "name": "$sDITCHFEST $w$o$6a110-11",
+    "mapcount": 20
+  },
+  {
+    "id": 29932,
+    "name": "$sDITCHFEST $w$o$c4a8-9",
+    "mapcount": 17
+  },
+  {
+    "id": 29717,
+    "name": "$sDITCHFEST $5fb$o$w4-7",
+    "mapcount": 23
+  },
+  {
+    "id": 29716,
+    "name": "$sDITCHFEST $o$w$0f01-3",
+    "mapcount": 22
+  },
+  {
+    "id": 29715,
+    "name": "$sDITCHFEST $o$w$f000",
+    "mapcount": 5
+  }
+]

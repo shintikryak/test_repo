@@ -1,0 +1,3518 @@
+{
+  "page": 0,
+  "pageCount": 4,
+  "campaigns": [
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 151372,
+      "clubid": 30098,
+      "clubname": "$z$n$o$777६$fff 〜 $777»$fffMekh $777°$777 $666〃$666〟$555、$555。$555・$444 $444†",
+      "name": "$z$o$n$fffSSN$15b.$fff Speedfun & FS",
+      "timestamp": 1785729816,
+      "mapcount": 1,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/5a82d7a6-28fe-41f9-ae82-155a7e02753d/png/small.png?timestamp=1785729819.png",
+      "creatorplayer": {
+        "name": "StMekh",
+        "tag": "$777M$BBBK$FFFH",
+        "id": "24694142-d2ff-4c46-a437-77ce47319a5b",
+        "zone": {
+          "id": "30229a1d-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Thailand",
+          "flag": "THA",
+          "parent": {
+            "id": "301e2069-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Asia",
+            "flag": "asia",
+            "parent": {
+              "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+              "name": "World",
+              "flag": "WOR"
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "sinistea_mekhetiecureuil",
+            "youtube": "@Royalty_Mekh",
+            "twitter": "Royalty_Mekh"
+          }
+        }
+      },
+      "latesteditorplayer": {
+        "name": "StMekh",
+        "tag": "$777M$BBBK$FFFH",
+        "id": "24694142-d2ff-4c46-a437-77ce47319a5b",
+        "zone": {
+          "id": "30229a1d-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Thailand",
+          "flag": "THA",
+          "parent": {
+            "id": "301e2069-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Asia",
+            "flag": "asia",
+            "parent": {
+              "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+              "name": "World",
+              "flag": "WOR"
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "sinistea_mekhetiecureuil",
+            "youtube": "@Royalty_Mekh",
+            "twitter": "Royalty_Mekh"
+          }
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 48126,
+      "clubid": 37625,
+      "clubname": "Ealipse The Rock",
+      "name": "EalipseSpeedFun",
+      "timestamp": 1690052340,
+      "mapcount": 13,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/d5782286-ce8d-4571-8dd2-d03a72983144/png/small.png?timestamp=1705434560.png",
+      "creatorplayer": {
+        "name": "Ealipse",
+        "tag": "$C96$SWP",
+        "id": "041623e9-57de-4dea-8fd2-6adf967ba558",
+        "zone": {
+          "id": "3020a27d-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Norway",
+          "flag": "NOR",
+          "parent": {
+            "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Europe",
+            "flag": "europe",
+            "parent": {
+              "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+              "name": "World",
+              "flag": "WOR"
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "Ealipse",
+        "tag": "$C96$SWP",
+        "id": "041623e9-57de-4dea-8fd2-6adf967ba558",
+        "zone": {
+          "id": "3020a27d-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Norway",
+          "flag": "NOR",
+          "parent": {
+            "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Europe",
+            "flag": "europe",
+            "parent": {
+              "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+              "name": "World",
+              "flag": "WOR"
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 152951,
+      "clubid": 27277,
+      "clubname": "$F99Sa$F9Ami$F9Bfy$F9Cin$F9Dg $F9ECl$F9Fub",
+      "name": "XPEVO WILDFIRES PRAC",
+      "timestamp": 1786751849,
+      "mapcount": 4,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/7ee83e83-199b-4545-9692-4ca4000ab5e4/png/small.png?timestamp=1786751850.png",
+      "creatorplayer": {
+        "name": "Samifying",
+        "tag": "$S$I$I$F90🔥",
+        "id": "f37147a8-36f3-4c58-9577-bf0faff3aafa",
+        "zone": {
+          "id": "301e556c-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Tyrol",
+          "flag": "Tyrol",
+          "parent": {
+            "id": "301e41fc-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Austria",
+            "flag": "AUT",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "samifying",
+            "youtube": "@samifying",
+            "twitter": "samifying"
+          }
+        }
+      },
+      "latesteditorplayer": {
+        "name": "Samifying",
+        "tag": "$S$I$I$F90🔥",
+        "id": "f37147a8-36f3-4c58-9577-bf0faff3aafa",
+        "zone": {
+          "id": "301e556c-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Tyrol",
+          "flag": "Tyrol",
+          "parent": {
+            "id": "301e41fc-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Austria",
+            "flag": "AUT",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "samifying",
+            "youtube": "@samifying",
+            "twitter": "samifying"
+          }
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 150847,
+      "clubid": 91057,
+      "clubname": "$s$E8E$E8D $E8BK$E9Ae$E98y$F97c$F96o$F94r$FA3d$FA1 $FA0",
+      "name": "$z$sspeedfun/fullspeed",
+      "timestamp": 1785265743,
+      "mapcount": 2,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/44cd9e8c-a215-473e-9907-b6e975df22bb/png/small.png?timestamp=1785265996.png",
+      "creatorplayer": {
+        "name": "cw.key",
+        "tag": "$FFF$S.$FCFWAV$FFF",
+        "id": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
+        "zone": {
+          "id": "3022a504-7e13-11e8-8060-e284abfd2bc4",
+          "name": "East of England",
+          "flag": "East_of_England_",
+          "parent": {
+            "id": "3022a3c9-7e13-11e8-8060-e284abfd2bc4",
+            "name": "England",
+            "flag": "ENG",
+            "parent": {
+              "id": "3022a1b2-7e13-11e8-8060-e284abfd2bc4",
+              "name": "United Kingdom",
+              "flag": "GBR",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "cw_key",
+            "twitter": "Keys_Extra"
+          }
+        }
+      },
+      "latesteditorplayer": {
+        "name": "cw.key",
+        "tag": "$FFF$S.$FCFWAV$FFF",
+        "id": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
+        "zone": {
+          "id": "3022a504-7e13-11e8-8060-e284abfd2bc4",
+          "name": "East of England",
+          "flag": "East_of_England_",
+          "parent": {
+            "id": "3022a3c9-7e13-11e8-8060-e284abfd2bc4",
+            "name": "England",
+            "flag": "ENG",
+            "parent": {
+              "id": "3022a1b2-7e13-11e8-8060-e284abfd2bc4",
+              "name": "United Kingdom",
+              "flag": "GBR",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "cw_key",
+            "twitter": "Keys_Extra"
+          }
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 72990,
+      "clubid": 43571,
+      "clubname": "$F00$S$W$OOhio",
+      "name": "Ohio Landfill",
+      "timestamp": 1721232987,
+      "mapcount": 10,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/3e55ae60-ad50-4871-9691-6c28b9564e4e/png/small.png?timestamp=1721232989.png",
+      "creatorplayer": {
+        "name": "regrabmegrA",
+        "tag": "$D13G$B57D$A8BE$8CFX",
+        "id": "791eec35-9582-4727-8fea-819eabf64432",
+        "zone": {
+          "id": "3022e90b-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Ohio",
+          "flag": "Ohio",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "argembarger",
+            "youtube": "@Argembarger",
+            "twitter": "argembarger"
+          }
+        }
+      },
+      "latesteditorplayer": {
+        "name": "regrabmegrA",
+        "tag": "$D13G$B57D$A8BE$8CFX",
+        "id": "791eec35-9582-4727-8fea-819eabf64432",
+        "zone": {
+          "id": "3022e90b-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Ohio",
+          "flag": "Ohio",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "argembarger",
+            "youtube": "@Argembarger",
+            "twitter": "argembarger"
+          }
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 119200,
+      "clubid": 93574,
+      "clubname": "HSNPhil's club",
+      "name": "SpeedFun Monthly",
+      "timestamp": 1766014595,
+      "mapcount": 12,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "HSNPhil",
+        "tag": "$0EFC$0AFR$18FE$36EW$F60Z",
+        "id": "5457e795-e59b-4285-8162-c04a9ed455f0",
+        "zone": {
+          "id": "301e73a7-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Quebec",
+          "flag": "Quebec",
+          "parent": {
+            "id": "301e6dd7-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Canada",
+            "flag": "CAN",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        }
+      },
+      "latesteditorplayer": {
+        "name": "HSNPhil",
+        "tag": "$0EFC$0AFR$18FE$36EW$F60Z",
+        "id": "5457e795-e59b-4285-8162-c04a9ed455f0",
+        "zone": {
+          "id": "301e73a7-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Quebec",
+          "flag": "Quebec",
+          "parent": {
+            "id": "301e6dd7-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Canada",
+            "flag": "CAN",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 150263,
+      "clubid": 142787,
+      "clubname": "Coupe De France 2026",
+      "name": "CDF26",
+      "timestamp": 1784809348,
+      "mapcount": 5,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/4f586556-0b49-42ae-af8b-4d404121219f/png/small.png?timestamp=1787485080.png",
+      "creatorplayer": {
+        "name": "AdyuxTM",
+        "tag": "$S$FC0B$FFFT$FC0M",
+        "id": "6edf69ca-73e0-42f0-931f-21cfc808d511",
+        "zone": {
+          "id": "301fedfe-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Sarthe",
+          "flag": "Sarthe",
+          "parent": {
+            "id": "301feb1f-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Pays-de-la-Loire",
+            "flag": "Pays-de-la-Loire",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "adyux_",
+            "youtube": "UCu9WV2PWb21t2tQFYzruANw",
+            "twitter": "_adyux"
+          }
+        }
+      },
+      "latesteditorplayer": {
+        "name": "AdyuxTM",
+        "tag": "$S$FC0B$FFFT$FC0M",
+        "id": "6edf69ca-73e0-42f0-931f-21cfc808d511",
+        "zone": {
+          "id": "301fedfe-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Sarthe",
+          "flag": "Sarthe",
+          "parent": {
+            "id": "301feb1f-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Pays-de-la-Loire",
+            "flag": "Pays-de-la-Loire",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "adyux_",
+            "youtube": "UCu9WV2PWb21t2tQFYzruANw",
+            "twitter": "_adyux"
+          }
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 38063,
+      "clubid": 45368,
+      "clubname": "$C60F$F90l$F96o$FC9w",
+      "name": "Flow Short SpeedFun",
+      "timestamp": 1678678763,
+      "mapcount": 2,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "Justen787",
+        "tag": "$W$S$C60F$F90L$F96O$FC9W~",
+        "id": "2f790e16-2627-4651-a110-4962f8030160",
+        "zone": {
+          "id": "3022b799-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Florida",
+          "flag": "Florida",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "heythereviewers",
+            "youtube": "UCtNlmQYNnNFcMpN_plrG0fw",
+            "twitter": "Justen787"
+          }
+        }
+      },
+      "latesteditorplayer": {
+        "name": "Justen787",
+        "tag": "$W$S$C60F$F90L$F96O$FC9W~",
+        "id": "2f790e16-2627-4651-a110-4962f8030160",
+        "zone": {
+          "id": "3022b799-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Florida",
+          "flag": "Florida",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "heythereviewers",
+            "youtube": "UCtNlmQYNnNFcMpN_plrG0fw",
+            "twitter": "Justen787"
+          }
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 9887,
+      "clubid": 4514,
+      "clubname": "$FC0Speedfun",
+      "name": "SpeedFun",
+      "timestamp": 1621557058,
+      "mapcount": 3,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "Chrishanx",
+        "tag": "$O$222W$FF0G",
+        "id": "e71b79b8-36e7-4ae2-b970-91cb4c82216e",
+        "zone": {
+          "id": "30200c5a-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Osnabrück",
+          "flag": "Osnabruck",
+          "parent": {
+            "id": "30200a18-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Niedersachsen",
+            "flag": "niedersachsen",
+            "parent": {
+              "id": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Germany",
+              "flag": "GER",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "Chrishanx",
+        "tag": "$O$222W$FF0G",
+        "id": "e71b79b8-36e7-4ae2-b970-91cb4c82216e",
+        "zone": {
+          "id": "30200c5a-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Osnabrück",
+          "flag": "Osnabruck",
+          "parent": {
+            "id": "30200a18-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Niedersachsen",
+            "flag": "niedersachsen",
+            "parent": {
+              "id": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Germany",
+              "flag": "GER",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 149949,
+      "clubid": 131171,
+      "clubname": "Beginners Sorted",
+      "name": "ripfish_/deadfish",
+      "timestamp": 1784626113,
+      "mapcount": 23,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "Arrold",
+        "id": "d49c6629-803a-4899-862d-b0495ddd1932",
+        "zone": {
+          "id": "3022a755-7e13-11e8-8060-e284abfd2bc4",
+          "name": "South East England",
+          "flag": "ENG",
+          "parent": {
+            "id": "3022a3c9-7e13-11e8-8060-e284abfd2bc4",
+            "name": "England",
+            "flag": "ENG",
+            "parent": {
+              "id": "3022a1b2-7e13-11e8-8060-e284abfd2bc4",
+              "name": "United Kingdom",
+              "flag": "GBR",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "Arrold",
+        "id": "d49c6629-803a-4899-862d-b0495ddd1932",
+        "zone": {
+          "id": "3022a755-7e13-11e8-8060-e284abfd2bc4",
+          "name": "South East England",
+          "flag": "ENG",
+          "parent": {
+            "id": "3022a3c9-7e13-11e8-8060-e284abfd2bc4",
+            "name": "England",
+            "flag": "ENG",
+            "parent": {
+              "id": "3022a1b2-7e13-11e8-8060-e284abfd2bc4",
+              "name": "United Kingdom",
+              "flag": "GBR",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 131457,
+      "clubid": 131171,
+      "clubname": "Beginners Sorted",
+      "name": "SpeedFun 26+",
+      "timestamp": 1774880861,
+      "mapcount": 25,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/a4a717a9-d579-4055-a72a-974299ce863d/png/small.png?timestamp=1775764207.png",
+      "creatorplayer": {
+        "name": "Arrold",
+        "id": "d49c6629-803a-4899-862d-b0495ddd1932",
+        "zone": {
+          "id": "3022a755-7e13-11e8-8060-e284abfd2bc4",
+          "name": "South East England",
+          "flag": "ENG",
+          "parent": {
+            "id": "3022a3c9-7e13-11e8-8060-e284abfd2bc4",
+            "name": "England",
+            "flag": "ENG",
+            "parent": {
+              "id": "3022a1b2-7e13-11e8-8060-e284abfd2bc4",
+              "name": "United Kingdom",
+              "flag": "GBR",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "Arrold",
+        "id": "d49c6629-803a-4899-862d-b0495ddd1932",
+        "zone": {
+          "id": "3022a755-7e13-11e8-8060-e284abfd2bc4",
+          "name": "South East England",
+          "flag": "ENG",
+          "parent": {
+            "id": "3022a3c9-7e13-11e8-8060-e284abfd2bc4",
+            "name": "England",
+            "flag": "ENG",
+            "parent": {
+              "id": "3022a1b2-7e13-11e8-8060-e284abfd2bc4",
+              "name": "United Kingdom",
+              "flag": "GBR",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 131456,
+      "clubid": 131171,
+      "clubname": "Beginners Sorted",
+      "name": "SpeedFun 1-25",
+      "timestamp": 1774880860,
+      "mapcount": 25,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/31a55b99-f09d-46da-8977-7c951c800475/png/small.png?timestamp=1775764200.png",
+      "creatorplayer": {
+        "name": "Arrold",
+        "id": "d49c6629-803a-4899-862d-b0495ddd1932",
+        "zone": {
+          "id": "3022a755-7e13-11e8-8060-e284abfd2bc4",
+          "name": "South East England",
+          "flag": "ENG",
+          "parent": {
+            "id": "3022a3c9-7e13-11e8-8060-e284abfd2bc4",
+            "name": "England",
+            "flag": "ENG",
+            "parent": {
+              "id": "3022a1b2-7e13-11e8-8060-e284abfd2bc4",
+              "name": "United Kingdom",
+              "flag": "GBR",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "Arrold",
+        "id": "d49c6629-803a-4899-862d-b0495ddd1932",
+        "zone": {
+          "id": "3022a755-7e13-11e8-8060-e284abfd2bc4",
+          "name": "South East England",
+          "flag": "ENG",
+          "parent": {
+            "id": "3022a3c9-7e13-11e8-8060-e284abfd2bc4",
+            "name": "England",
+            "flag": "ENG",
+            "parent": {
+              "id": "3022a1b2-7e13-11e8-8060-e284abfd2bc4",
+              "name": "United Kingdom",
+              "flag": "GBR",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 85987,
+      "clubid": 22531,
+      "clubname": "MILMY",
+      "name": "fdfdgtg",
+      "timestamp": 1736268845,
+      "mapcount": 1,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "MILMY",
+        "tag": "$S$75FÆ$9CF",
+        "id": "47dba3d6-ffab-43e1-a082-2887f1106cdb",
+        "zone": {
+          "id": "301f555b-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Středočeský kraj",
+          "flag": "Středočeský kraj",
+          "parent": {
+            "id": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Czechia",
+            "flag": "CZE",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "MILMY",
+        "tag": "$S$75FÆ$9CF",
+        "id": "47dba3d6-ffab-43e1-a082-2887f1106cdb",
+        "zone": {
+          "id": "301f555b-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Středočeský kraj",
+          "flag": "Středočeský kraj",
+          "parent": {
+            "id": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Czechia",
+            "flag": "CZE",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 154156,
+      "clubid": 104757,
+      "clubname": "$sNYXAR $139MAIN",
+      "name": "Campagne cdf",
+      "timestamp": 1787521639,
+      "mapcount": 5,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "LukaRrRrRiiOoOo",
+        "tag": "$S$C00NYX ",
+        "id": "64d0f2c1-7b3e-43ee-88c4-caadbdd2a8bd",
+        "zone": {
+          "id": "301f816c-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Côte-d'Or",
+          "flag": "Cote-d'Or",
+          "parent": {
+            "id": "301f7d37-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Bourgogne-Franche-Comté",
+            "flag": "bourgogne-franche-comte",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "LukaRrRrRiiOoOo",
+        "tag": "$S$C00NYX ",
+        "id": "64d0f2c1-7b3e-43ee-88c4-caadbdd2a8bd",
+        "zone": {
+          "id": "301f816c-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Côte-d'Or",
+          "flag": "Cote-d'Or",
+          "parent": {
+            "id": "301f7d37-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Bourgogne-Franche-Comté",
+            "flag": "bourgogne-franche-comte",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 149656,
+      "clubid": 138019,
+      "clubname": "LOL Shorts U20s Maps",
+      "name": "20s & U Speedfun 19",
+      "timestamp": 1784466710,
+      "mapcount": 21,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/26b51cdc-b76b-4a3f-be01-b7215ea585ce/png/small.png?timestamp=1784466717.png",
+      "creatorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 149655,
+      "clubid": 138019,
+      "clubname": "LOL Shorts U20s Maps",
+      "name": "20s & U Speedfun 18",
+      "timestamp": 1784466626,
+      "mapcount": 25,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/857d6dd1-4dd1-4192-8de3-1485bb4c3097/png/small.png?timestamp=1784466635.png",
+      "creatorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 149654,
+      "clubid": 138019,
+      "clubname": "LOL Shorts U20s Maps",
+      "name": "20s & U Speedfun 17",
+      "timestamp": 1784466564,
+      "mapcount": 25,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/c9b21d22-d8fe-4cde-a659-bad8dd9b250e/png/small.png?timestamp=1784466570.png",
+      "creatorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 149653,
+      "clubid": 138019,
+      "clubname": "LOL Shorts U20s Maps",
+      "name": "20s & U Speedfun 16",
+      "timestamp": 1784466296,
+      "mapcount": 25,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/ed66089b-6546-47eb-9ac0-395e3f577349/png/small.png?timestamp=1784466304.png",
+      "creatorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 149652,
+      "clubid": 138019,
+      "clubname": "LOL Shorts U20s Maps",
+      "name": "20s & U Speedfun 15",
+      "timestamp": 1784466149,
+      "mapcount": 25,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/94729b86-b272-4b68-a47d-ba20c28f4f77/png/small.png?timestamp=1784466156.png",
+      "creatorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 149651,
+      "clubid": 138019,
+      "clubname": "LOL Shorts U20s Maps",
+      "name": "20s & U Speedfun 14",
+      "timestamp": 1784466034,
+      "mapcount": 25,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/25955586-718d-43a4-b6f7-2ba8e1684276/png/small.png?timestamp=1784466041.png",
+      "creatorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 149649,
+      "clubid": 138019,
+      "clubname": "LOL Shorts U20s Maps",
+      "name": "20s & U Speedfun 13",
+      "timestamp": 1784465911,
+      "mapcount": 25,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/6442786f-df90-4bb8-99d5-f21a49c019c8/png/small.png?timestamp=1784465917.png",
+      "creatorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 149647,
+      "clubid": 138019,
+      "clubname": "LOL Shorts U20s Maps",
+      "name": "20s & U Speedfun 12",
+      "timestamp": 1784465793,
+      "mapcount": 25,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/72e6c43e-db0f-447c-84de-d47dbcc80331/png/small.png?timestamp=1784465797.png",
+      "creatorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 149646,
+      "clubid": 138019,
+      "clubname": "LOL Shorts U20s Maps",
+      "name": "20s & U Speedfun 11",
+      "timestamp": 1784465685,
+      "mapcount": 25,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/eae170a9-80ea-41ca-9950-3594a894bf0a/png/small.png?timestamp=1784465692.png",
+      "creatorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 149645,
+      "clubid": 138019,
+      "clubname": "LOL Shorts U20s Maps",
+      "name": "20s & U Speedfun10",
+      "timestamp": 1784465565,
+      "mapcount": 25,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/e66ec93a-d315-4e5a-8d6d-07b57b1d9390/png/small.png?timestamp=1784465569.png",
+      "creatorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 149644,
+      "clubid": 138019,
+      "clubname": "LOL Shorts U20s Maps",
+      "name": "20s & U Speedfun 9",
+      "timestamp": 1784465399,
+      "mapcount": 25,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/26da9e58-614a-4faa-aad3-0c65e8d9f92c/png/small.png?timestamp=1784465405.png",
+      "creatorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 149474,
+      "clubid": 138019,
+      "clubname": "LOL Shorts U20s Maps",
+      "name": "20s & U Speedfun 8",
+      "timestamp": 1784390414,
+      "mapcount": 25,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/c801cba0-38a5-4006-984a-e9d64000ba6e/png/small.png?timestamp=1784390419.png",
+      "creatorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 149473,
+      "clubid": 138019,
+      "clubname": "LOL Shorts U20s Maps",
+      "name": "20s & U Speedfun 7",
+      "timestamp": 1784390301,
+      "mapcount": 25,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/6d5e4056-ae6d-4cc8-ad85-0f6561ecf129/png/small.png?timestamp=1784390308.png",
+      "creatorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 149471,
+      "clubid": 138019,
+      "clubname": "LOL Shorts U20s Maps",
+      "name": "20s & U Speedfun 6",
+      "timestamp": 1784390176,
+      "mapcount": 25,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/9d2c0a5a-1e7b-41d5-9fba-cc76dcf4df4b/png/small.png?timestamp=1784390181.png",
+      "creatorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 149470,
+      "clubid": 138019,
+      "clubname": "LOL Shorts U20s Maps",
+      "name": "20s & U Speedfun 5",
+      "timestamp": 1784390056,
+      "mapcount": 25,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/8918db54-2460-49e2-ada0-dcee6598199b/png/small.png?timestamp=1784390064.png",
+      "creatorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 149469,
+      "clubid": 138019,
+      "clubname": "LOL Shorts U20s Maps",
+      "name": "20s & U Speedfun 4",
+      "timestamp": 1784389883,
+      "mapcount": 25,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/8d2a6e70-2757-485a-8d94-ccfabcb0b066/png/small.png?timestamp=1784389894.png",
+      "creatorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 149468,
+      "clubid": 138019,
+      "clubname": "LOL Shorts U20s Maps",
+      "name": "20s & U Speedfun 3",
+      "timestamp": 1784389711,
+      "mapcount": 25,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/eedb29d2-73e2-4448-8ee8-554d6e4b8cac/png/small.png?timestamp=1784389718.png",
+      "creatorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 149467,
+      "clubid": 138019,
+      "clubname": "LOL Shorts U20s Maps",
+      "name": "20s & U Speedfun 2",
+      "timestamp": 1784389452,
+      "mapcount": 25,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/16566148-0a50-44ce-8866-86f18649053a/png/small.png?timestamp=1784389456.png",
+      "creatorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 149466,
+      "clubid": 138019,
+      "clubname": "LOL Shorts U20s Maps",
+      "name": "20s & U Speedfun 1",
+      "timestamp": 1784389316,
+      "mapcount": 25,
+      "tracked": false,
+      "mediaurl": "https://trackmania-prod-media-s3.cdn.ubi.com/media/image/live-api/2e9e5526-f231-4d26-b77a-6b11ee38c619/png/small.png?timestamp=1784389323.png",
+      "creatorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "BapdadaTM",
+        "id": "50be5e96-3eea-4c75-ae67-dcc0439e6d2e",
+        "zone": {
+          "id": "3022eac6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pennsylvania",
+          "flag": "Pennsylvania",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 116522,
+      "clubid": 55655,
+      "clubname": "WHAM!",
+      "name": "asdf",
+      "timestamp": 1763554156,
+      "mapcount": 5,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "SunnySund4e",
+        "tag": "$I$FCD$OW$FFF$IHA$FCD$SM$FFF!",
+        "id": "32872b3a-46c8-416a-9fab-9f156cb9d689",
+        "zone": {
+          "id": "301ffe91-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Berlin",
+          "flag": "Berlin",
+          "parent": {
+            "id": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Germany",
+            "flag": "GER",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "SunnySund4e",
+        "tag": "$I$FCD$OW$FFF$IHA$FCD$SM$FFF!",
+        "id": "32872b3a-46c8-416a-9fab-9f156cb9d689",
+        "zone": {
+          "id": "301ffe91-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Berlin",
+          "flag": "Berlin",
+          "parent": {
+            "id": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Germany",
+            "flag": "GER",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 6349,
+      "clubid": 8835,
+      "clubname": "Mindamon's club",
+      "name": "Feel the Speedfun",
+      "timestamp": 1609955793,
+      "mapcount": 7,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "Mindamon",
+        "tag": "$S$C22В$FFFЭ",
+        "id": "89c9f67c-dfd4-4fbc-81bd-7c2d3d314437",
+        "zone": {
+          "id": "30200561-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Frankfurt",
+          "flag": "Frankfurt",
+          "parent": {
+            "id": "3020017a-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Hessen",
+            "flag": "hesse",
+            "parent": {
+              "id": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Germany",
+              "flag": "GER",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      },
+      "latesteditorplayer": {
+        "name": "Mindamon",
+        "tag": "$S$C22В$FFFЭ",
+        "id": "89c9f67c-dfd4-4fbc-81bd-7c2d3d314437",
+        "zone": {
+          "id": "30200561-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Frankfurt",
+          "flag": "Frankfurt",
+          "parent": {
+            "id": "3020017a-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Hessen",
+            "flag": "hesse",
+            "parent": {
+              "id": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Germany",
+              "flag": "GER",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 134323,
+      "clubid": 133386,
+      "clubname": "PROSTAMOL",
+      "name": "CAMPAGNA IDFIFCLE",
+      "timestamp": 1776454323,
+      "mapcount": 5,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "N32-",
+        "tag": "$S$O$FF0C$FE1A$FC2R$FA3T$F92A",
+        "id": "dd7a48c0-0141-4939-8a75-2ab5d1c2c850",
+        "zone": {
+          "id": "30206dbd-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Lombardia",
+          "flag": "Lombardia",
+          "parent": {
+            "id": "30205cc4-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Italy",
+            "flag": "ITA",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        }
+      },
+      "latesteditorplayer": {
+        "name": "N32-",
+        "tag": "$S$O$FF0C$FE1A$FC2R$FA3T$F92A",
+        "id": "dd7a48c0-0141-4939-8a75-2ab5d1c2c850",
+        "zone": {
+          "id": "30206dbd-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Lombardia",
+          "flag": "Lombardia",
+          "parent": {
+            "id": "30205cc4-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Italy",
+            "flag": "ITA",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 109120,
+      "clubid": 74103,
+      "clubname": "Pojkemon",
+      "name": "asdfasdfasdfa",
+      "timestamp": 1757094314,
+      "mapcount": 19,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "Resstoo",
+        "tag": "O$IO",
+        "id": "dbfb0f0b-264f-4ac2-b854-ecc63f294042",
+        "zone": {
+          "id": "30228671-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Sweden",
+          "flag": "SWE",
+          "parent": {
+            "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Europe",
+            "flag": "europe",
+            "parent": {
+              "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+              "name": "World",
+              "flag": "WOR"
+            }
+          }
+        }
+      },
+      "latesteditorplayer": {
+        "name": "Resstoo",
+        "tag": "O$IO",
+        "id": "dbfb0f0b-264f-4ac2-b854-ecc63f294042",
+        "zone": {
+          "id": "30228671-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Sweden",
+          "flag": "SWE",
+          "parent": {
+            "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Europe",
+            "flag": "europe",
+            "parent": {
+              "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+              "name": "World",
+              "flag": "WOR"
+            }
+          }
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 95990,
+      "clubid": 56996,
+      "clubname": "Hummbleee",
+      "name": "asdf",
+      "timestamp": 1745545918,
+      "mapcount": 1,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "hummble5",
+        "tag": "$S$O$FC3H$000D",
+        "id": "441c4ce8-af3b-4b6b-9260-fcb28767a7bb",
+        "zone": {
+          "id": "301e6ee0-7e13-11e8-8060-e284abfd2bc4",
+          "name": "British Columbia",
+          "flag": "British_Columbia",
+          "parent": {
+            "id": "301e6dd7-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Canada",
+            "flag": "CAN",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "hummble5"
+          }
+        }
+      },
+      "latesteditorplayer": {
+        "name": "hummble5",
+        "tag": "$S$O$FC3H$000D",
+        "id": "441c4ce8-af3b-4b6b-9260-fcb28767a7bb",
+        "zone": {
+          "id": "301e6ee0-7e13-11e8-8060-e284abfd2bc4",
+          "name": "British Columbia",
+          "flag": "British_Columbia",
+          "parent": {
+            "id": "301e6dd7-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Canada",
+            "flag": "CAN",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "hummble5"
+          }
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 6872,
+      "clubid": 7328,
+      "clubname": "$0CFScar$06Fluna $96FeSports",
+      "name": "Speedfun",
+      "timestamp": 1612053880,
+      "mapcount": 2,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "AlunaNL",
+        "id": "36a44b9c-3cc6-4390-aefd-66e32f334c8b",
+        "zone": {
+          "id": "30209b5f-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Noord-Brabant",
+          "flag": "Noord-Brabant",
+          "parent": {
+            "id": "302094fd-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Netherlands",
+            "flag": "NED",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        }
+      },
+      "latesteditorplayer": {
+        "name": "AlunaNL",
+        "id": "36a44b9c-3cc6-4390-aefd-66e32f334c8b",
+        "zone": {
+          "id": "30209b5f-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Noord-Brabant",
+          "flag": "Noord-Brabant",
+          "parent": {
+            "id": "302094fd-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Netherlands",
+            "flag": "NED",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 115973,
+      "clubid": 43055,
+      "clubname": "$999Track-$f03Manouille",
+      "name": "qsdfqsdf",
+      "timestamp": 1762984145,
+      "mapcount": 2,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "kiloudu14",
+        "tag": "$0FEラ$5F9ー$AF4メ$FF0ン$F03",
+        "id": "b02d79c5-22f6-4f03-9cee-2f40630c96fa",
+        "zone": {
+          "id": "301fb2a7-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Manche",
+          "flag": "Manche",
+          "parent": {
+            "id": "301fb0d7-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Normandie",
+            "flag": "normandie",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "Kilou007",
+            "youtube": "UCKJLHdsuYdnJSOr-ePY7uCg"
+          }
+        }
+      },
+      "latesteditorplayer": {
+        "name": "Soulbour",
+        "tag": "$S$0FF❄$3FFI$6FFC$9FFE$CFF❄",
+        "id": "d3f5272f-f5a2-45d5-8725-01517054153e",
+        "zone": {
+          "id": "301fb2a7-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Manche",
+          "flag": "Manche",
+          "parent": {
+            "id": "301fb0d7-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Normandie",
+            "flag": "normandie",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 57394,
+      "clubid": 44659,
+      "clubname": "thing",
+      "name": "spedf",
+      "timestamp": 1703305121,
+      "mapcount": 9,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "Kyle.A26",
+        "tag": "TM² >",
+        "id": "49d2d2e5-cfd7-48cd-9077-29fdecf203bc",
+        "zone": {
+          "id": "b9e4bf40-1d93-48a3-8b67-7e40dfa6eba9",
+          "name": "Rio Grande do Sul",
+          "flag": "rio-grande-do-sul",
+          "parent": {
+            "id": "301e6521-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Brazil",
+            "flag": "BRA",
+            "parent": {
+              "id": "301e243e-7e13-11e8-8060-e284abfd2bc4",
+              "name": "South America",
+              "flag": "samerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "Kyle.A26",
+        "tag": "TM² >",
+        "id": "49d2d2e5-cfd7-48cd-9077-29fdecf203bc",
+        "zone": {
+          "id": "b9e4bf40-1d93-48a3-8b67-7e40dfa6eba9",
+          "name": "Rio Grande do Sul",
+          "flag": "rio-grande-do-sul",
+          "parent": {
+            "id": "301e6521-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Brazil",
+            "flag": "BRA",
+            "parent": {
+              "id": "301e243e-7e13-11e8-8060-e284abfd2bc4",
+              "name": "South America",
+              "flag": "samerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 132869,
+      "clubid": 133590,
+      "clubname": "Advanced Sorted",
+      "name": "deadfish",
+      "timestamp": 1775649465,
+      "mapcount": 25,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "Arrold",
+        "id": "d49c6629-803a-4899-862d-b0495ddd1932",
+        "zone": {
+          "id": "3022a755-7e13-11e8-8060-e284abfd2bc4",
+          "name": "South East England",
+          "flag": "ENG",
+          "parent": {
+            "id": "3022a3c9-7e13-11e8-8060-e284abfd2bc4",
+            "name": "England",
+            "flag": "ENG",
+            "parent": {
+              "id": "3022a1b2-7e13-11e8-8060-e284abfd2bc4",
+              "name": "United Kingdom",
+              "flag": "GBR",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "Arrold",
+        "id": "d49c6629-803a-4899-862d-b0495ddd1932",
+        "zone": {
+          "id": "3022a755-7e13-11e8-8060-e284abfd2bc4",
+          "name": "South East England",
+          "flag": "ENG",
+          "parent": {
+            "id": "3022a3c9-7e13-11e8-8060-e284abfd2bc4",
+            "name": "England",
+            "flag": "ENG",
+            "parent": {
+              "id": "3022a1b2-7e13-11e8-8060-e284abfd2bc4",
+              "name": "United Kingdom",
+              "flag": "GBR",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 131629,
+      "clubid": 133590,
+      "clubname": "Advanced Sorted",
+      "name": "SpeedFun 26+",
+      "timestamp": 1774971985,
+      "mapcount": 25,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "Arrold",
+        "id": "d49c6629-803a-4899-862d-b0495ddd1932",
+        "zone": {
+          "id": "3022a755-7e13-11e8-8060-e284abfd2bc4",
+          "name": "South East England",
+          "flag": "ENG",
+          "parent": {
+            "id": "3022a3c9-7e13-11e8-8060-e284abfd2bc4",
+            "name": "England",
+            "flag": "ENG",
+            "parent": {
+              "id": "3022a1b2-7e13-11e8-8060-e284abfd2bc4",
+              "name": "United Kingdom",
+              "flag": "GBR",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "Arrold",
+        "id": "d49c6629-803a-4899-862d-b0495ddd1932",
+        "zone": {
+          "id": "3022a755-7e13-11e8-8060-e284abfd2bc4",
+          "name": "South East England",
+          "flag": "ENG",
+          "parent": {
+            "id": "3022a3c9-7e13-11e8-8060-e284abfd2bc4",
+            "name": "England",
+            "flag": "ENG",
+            "parent": {
+              "id": "3022a1b2-7e13-11e8-8060-e284abfd2bc4",
+              "name": "United Kingdom",
+              "flag": "GBR",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 131628,
+      "clubid": 133590,
+      "clubname": "Advanced Sorted",
+      "name": "SpeedFun 1-25",
+      "timestamp": 1774971985,
+      "mapcount": 25,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "Arrold",
+        "id": "d49c6629-803a-4899-862d-b0495ddd1932",
+        "zone": {
+          "id": "3022a755-7e13-11e8-8060-e284abfd2bc4",
+          "name": "South East England",
+          "flag": "ENG",
+          "parent": {
+            "id": "3022a3c9-7e13-11e8-8060-e284abfd2bc4",
+            "name": "England",
+            "flag": "ENG",
+            "parent": {
+              "id": "3022a1b2-7e13-11e8-8060-e284abfd2bc4",
+              "name": "United Kingdom",
+              "flag": "GBR",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "Arrold",
+        "id": "d49c6629-803a-4899-862d-b0495ddd1932",
+        "zone": {
+          "id": "3022a755-7e13-11e8-8060-e284abfd2bc4",
+          "name": "South East England",
+          "flag": "ENG",
+          "parent": {
+            "id": "3022a3c9-7e13-11e8-8060-e284abfd2bc4",
+            "name": "England",
+            "flag": "ENG",
+            "parent": {
+              "id": "3022a1b2-7e13-11e8-8060-e284abfd2bc4",
+              "name": "United Kingdom",
+              "flag": "GBR",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 88094,
+      "clubid": 67628,
+      "clubname": "$00CD$FFFE$F00A$F00D$C0F",
+      "name": "df",
+      "timestamp": 1738360079,
+      "mapcount": 1,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "ADroket05",
+        "tag": "$O$T$F03LAY$339'$09FS$Z$09F",
+        "id": "101a74ae-1267-4c5a-bc7a-25bc0ebfa5d4",
+        "zone": {
+          "id": "301ff322-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Hautes-Alpes",
+          "flag": "Hautes-Alpes",
+          "parent": {
+            "id": "301ff0a1-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Provence-Alpes-Côte d'Azur",
+            "flag": "PACA",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "ADroket05",
+        "tag": "$O$T$F03LAY$339'$09FS$Z$09F",
+        "id": "101a74ae-1267-4c5a-bc7a-25bc0ebfa5d4",
+        "zone": {
+          "id": "301ff322-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Hautes-Alpes",
+          "flag": "Hautes-Alpes",
+          "parent": {
+            "id": "301ff0a1-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Provence-Alpes-Côte d'Azur",
+            "flag": "PACA",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 13914,
+      "clubid": 31611,
+      "clubname": "snippen",
+      "name": "hadfg",
+      "timestamp": 1629909003,
+      "mapcount": 8,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "snippen.",
+        "tag": "$F60S$F30B",
+        "id": "0efeba8a-9cda-49fa-ab25-35f1d9218c95",
+        "zone": {
+          "id": "3020a27d-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Norway",
+          "flag": "NOR",
+          "parent": {
+            "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Europe",
+            "flag": "europe",
+            "parent": {
+              "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+              "name": "World",
+              "flag": "WOR"
+            }
+          }
+        },
+        "meta": {
+          "vanity": "snippen",
+          "profile": {
+            "twitch": "snippen",
+            "youtube": "UCtcfraK1Tjw4ksrfLSIMVNA",
+            "twitter": "snippen1337"
+          }
+        }
+      },
+      "latesteditorplayer": {
+        "name": "snippen.",
+        "tag": "$F60S$F30B",
+        "id": "0efeba8a-9cda-49fa-ab25-35f1d9218c95",
+        "zone": {
+          "id": "3020a27d-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Norway",
+          "flag": "NOR",
+          "parent": {
+            "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Europe",
+            "flag": "europe",
+            "parent": {
+              "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+              "name": "World",
+              "flag": "WOR"
+            }
+          }
+        },
+        "meta": {
+          "vanity": "snippen",
+          "profile": {
+            "twitch": "snippen",
+            "youtube": "UCtcfraK1Tjw4ksrfLSIMVNA",
+            "twitter": "snippen1337"
+          }
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 127975,
+      "clubid": 70079,
+      "clubname": "ORIGINAL DAVE ZONE",
+      "name": "speedfirstmaping",
+      "timestamp": 1772234713,
+      "mapcount": 2,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "Davy-Bones",
+        "tag": "$FBCO$00FR$000Z",
+        "id": "145694b6-0702-49e2-aaa4-a2532b1d1714",
+        "zone": {
+          "id": "3022a7ed-7e13-11e8-8060-e284abfd2bc4",
+          "name": "South West England",
+          "flag": "South West England ",
+          "parent": {
+            "id": "3022a3c9-7e13-11e8-8060-e284abfd2bc4",
+            "name": "England",
+            "flag": "ENG",
+            "parent": {
+              "id": "3022a1b2-7e13-11e8-8060-e284abfd2bc4",
+              "name": "United Kingdom",
+              "flag": "GBR",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "Davy-Bones",
+        "tag": "$FBCO$00FR$000Z",
+        "id": "145694b6-0702-49e2-aaa4-a2532b1d1714",
+        "zone": {
+          "id": "3022a7ed-7e13-11e8-8060-e284abfd2bc4",
+          "name": "South West England",
+          "flag": "South West England ",
+          "parent": {
+            "id": "3022a3c9-7e13-11e8-8060-e284abfd2bc4",
+            "name": "England",
+            "flag": "ENG",
+            "parent": {
+              "id": "3022a1b2-7e13-11e8-8060-e284abfd2bc4",
+              "name": "United Kingdom",
+              "flag": "GBR",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 124592,
+      "clubid": 95314,
+      "clubname": "ryou",
+      "name": "qdfgb",
+      "timestamp": 1769911040,
+      "mapcount": 6,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "ryoutv",
+        "tag": "$S$FF0K$FFFCUP",
+        "id": "6491d3a8-9e11-4ca5-b79f-82aeeb254971",
+        "zone": {
+          "id": "301e5e63-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Liège",
+          "flag": "Liege",
+          "parent": {
+            "id": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Belgium",
+            "flag": "BEL",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "latesteditorplayer": {
+        "name": "ryoutv",
+        "tag": "$S$FF0K$FFFCUP",
+        "id": "6491d3a8-9e11-4ca5-b79f-82aeeb254971",
+        "zone": {
+          "id": "301e5e63-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Liège",
+          "flag": "Liege",
+          "parent": {
+            "id": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Belgium",
+            "flag": "BEL",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 121854,
+      "clubid": 85291,
+      "clubname": "Opportunitisten",
+      "name": "dfes",
+      "timestamp": 1768245174,
+      "mapcount": 25,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "simruh",
+        "id": "38f590d0-e8f9-4485-bd7d-f55fdbb6a064",
+        "zone": {
+          "id": "301ffa36-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Augsburg",
+          "flag": "Augsburg",
+          "parent": {
+            "id": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Bayern",
+            "flag": "bavaria",
+            "parent": {
+              "id": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Germany",
+              "flag": "GER",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      },
+      "latesteditorplayer": {
+        "name": "simruh",
+        "id": "38f590d0-e8f9-4485-bd7d-f55fdbb6a064",
+        "zone": {
+          "id": "301ffa36-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Augsburg",
+          "flag": "Augsburg",
+          "parent": {
+            "id": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Bayern",
+            "flag": "bavaria",
+            "parent": {
+              "id": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Germany",
+              "flag": "GER",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "official": false,
+      "seasonal": false,
+      "weekly": false,
+      "id": 113494,
+      "clubid": 85291,
+      "clubname": "Opportunitisten",
+      "name": "fbddfdfb",
+      "timestamp": 1761130797,
+      "mapcount": 25,
+      "tracked": false,
+      "creatorplayer": {
+        "name": "simruh",
+        "id": "38f590d0-e8f9-4485-bd7d-f55fdbb6a064",
+        "zone": {
+          "id": "301ffa36-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Augsburg",
+          "flag": "Augsburg",
+          "parent": {
+            "id": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Bayern",
+            "flag": "bavaria",
+            "parent": {
+              "id": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Germany",
+              "flag": "GER",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      },
+      "latesteditorplayer": {
+        "name": "simruh",
+        "id": "38f590d0-e8f9-4485-bd7d-f55fdbb6a064",
+        "zone": {
+          "id": "301ffa36-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Augsburg",
+          "flag": "Augsburg",
+          "parent": {
+            "id": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Bayern",
+            "flag": "bavaria",
+            "parent": {
+              "id": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Germany",
+              "flag": "GER",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}
