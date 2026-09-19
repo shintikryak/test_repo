@@ -4,7 +4,7 @@ import math
 import re
 from pathlib import Path
 from urllib.parse import quote
-
+from prime import is_prime
 import aiohttp
 
 
@@ -62,27 +62,27 @@ def is_ditchfest_campaign(name: str) -> bool:
     )
 
 
-def is_prime(n: int) -> bool:
-    if n < 2:
-        return False
+# def is_prime(n: int) -> bool:
+#     if n < 2:
+#         return False
 
-    if n == 2:
-        return True
+#     if n == 2:
+#         return True
 
-    if n % 2 == 0:
-        return False
+#     if n % 2 == 0:
+#         return False
 
-    limit = math.isqrt(n)
+#     limit = math.isqrt(n)
 
-    divisor = 3
+#     divisor = 3
 
-    while divisor <= limit:
-        if n % divisor == 0:
-            return False
+#     while divisor <= limit:
+#         if n % divisor == 0:
+#             return False
 
-        divisor += 2
+#         divisor += 2
 
-    return True
+#     return True
 
 
 def ensure_directories():
